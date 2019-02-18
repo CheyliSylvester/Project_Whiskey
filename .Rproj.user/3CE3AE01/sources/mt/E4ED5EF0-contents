@@ -1,0 +1,40 @@
+---
+title: "Whisky Notes"
+output: html_notebook
+---
+```{r}
+library(MASS)
+library(tidyverse)
+library(car)
+library(openintro)
+library(broom)
+library(caret)
+library(kernlab)
+library(rpart)
+library(rpart.plot)
+library(plyr)
+```
+# Column meanings
+https://whiskyanalysis.com/index.php/interesting-correlations/how-to-read-the-database/
+
+*Want to change $$$ to the price ranges listed*
+
+
+528 - Teaninich 10yo (F&F) - Cost Missing
+
+1036-1517 - Missing Super Cluster, most missing Cluster until you get into Ryes
+
+```{r}
+Whiskey_Data <- Meta_Critic_Whisky_Database_Selfbuilts_Whisky_Analysis[-c(528),]
+```
+
+
+
+```{r}
+Cost_CAD <- factor(Whiskey_Data$Cost, labels=c("<$30 CAD","$30-$50 CAD","$50-$70 CAD", "$70-$125 CAD","$125-$300 CAD",">$300 CAD"))
+Whiskey_Data <- data.frame(Whisky, MetaCritic, STDEV, #, Cost_CAD, Class, SuperCluser, Cluster, Country, Type)
+#mtcars2 <- data.frame(am, mpg = mtcars$mpg)
+```
+
+
+

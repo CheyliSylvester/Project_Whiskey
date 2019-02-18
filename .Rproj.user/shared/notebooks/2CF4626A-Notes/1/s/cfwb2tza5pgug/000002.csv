@@ -1,0 +1,3 @@
+"0","Cost_CAD <- factor(Whiskey_Data$Cost, labels=c(""<$30 CAD"",""$30-$50 CAD"",""$50-$70 CAD"", ""$70-$125 CAD"",""$125-$300 CAD"","">$300 CAD""))"
+"0","Whiskey_Data <- data.frame(Cost_CAD = Whiskey_Data$Cost)"
+"0","#mtcars2 <- data.frame(am, mpg = mtcars$mpg)"

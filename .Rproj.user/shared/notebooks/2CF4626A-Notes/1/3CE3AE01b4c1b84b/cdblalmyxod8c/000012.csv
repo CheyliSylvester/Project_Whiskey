@@ -1,0 +1,5 @@
+"0","read.table(Meta_Critic_Whisky_Database_Selfbuilts_Whisky_Analysis)
+"
+"2","Error in read.table(Meta_Critic_Whisky_Database_Selfbuilts_Whisky_Analysis) : 
+  'file' must be a character string or connection
+"

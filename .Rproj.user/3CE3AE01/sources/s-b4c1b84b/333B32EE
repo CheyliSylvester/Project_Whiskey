@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549926452248.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "333B32EE",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1549926452248,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F10B6EE1",
+        "caption" : "Meta_Critic_Whisky_Database_Selfbuilts_Whisky_Analysis",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Meta_Critic_Whisky_Database_Selfbuilts_Whisky_Analysis&cache_key=F10B6EE1",
+        "displayedObservations" : "1517",
+        "environment" : "",
+        "object" : "Meta_Critic_Whisky_Database_Selfbuilts_Whisky_Analysis",
+        "preview" : "0",
+        "totalObservations" : "1517",
+        "variables" : "10"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549163856147.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1432474317",
+    "id" : "E4ED5EF0",
+    "lastKnownWriteTime" : 1549925877,
+    "last_content_update" : 1550531732940,
+    "path" : "~/Project_Whiskey/Notes.Rmd",
+    "project_path" : "Notes.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "15,1",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

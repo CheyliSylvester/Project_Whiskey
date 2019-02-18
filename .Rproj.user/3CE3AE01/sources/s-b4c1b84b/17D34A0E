@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549907905719.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "17D34A0E",
+    "lastKnownWriteTime" : 7074432014458516325,
+    "last_content_update" : 1549907905719,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5C0A89C9",
+        "caption" : "Whiskey_Data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Whiskey_Data&cache_key=5C0A89C9",
+        "displayedObservations" : "1516",
+        "environment" : "",
+        "object" : "Whiskey_Data",
+        "preview" : "0",
+        "totalObservations" : "1516",
+        "variables" : "10"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
