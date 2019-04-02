@@ -1,0 +1,1518 @@
+Whisky,Age,MetaCritic,StDev,Num_of_Critics,Cost,Class,SuperCluster,Cluster,Country,Type
+Ledaig 42yo Dusgadh,42,9.46,0.24,3,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+"Laphroaig 27yo 57.4% 1980-2007 (OB, 5 Oloroso Casks, 972 Bts)",27,9.39,0.2,4,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenfarclas 40yo,40,9.27,0.26,15,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glengoyne 25yo,25,9.2,0.23,14,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Amrut Spectrum (Batch 1),0,9.18,0.24,10,$125-300 CAD,SingleMalt-like,ABC,C,India,Malt
+Highland Park 25yo,25,9.17,0.17,14,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Highland Park 40yo,40,9.16,0.44,10,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Amrut Greedy Angels (8yo and 10yo),8,9.12,0.17,8,>$300 CAD,SingleMalt-like,ABC,C,India,Malt
+Balvenie TUN 1401 (all 9 batches),0,9.12,0.28,17,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Highland Park 30yo,30,9.12,0.41,13,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Aberlour A'Bunadh (Batch 33),0,9.11,0.13,5,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 37),0,9.11,0.09,3,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Amrut Spectrum (all batches),0,9.11,0.19,11,$125-300 CAD,SingleMalt-like,ABC,C,India,Malt
+Kavalan Solist PX Cask,0,9.11,0.55,8,>$300 CAD,SingleMalt-like,ABC,A,Taiwan,Malt
+Nikka Single Cask Coffey Malt 12yo,23,9.11,0.48,9,$125-300 CAD,SingleMalt-like,ABC,C,Japan,Malt
+Redbreast 21yo,21,9.11,0.29,17,$125-300 CAD,SingleMalt-like,ABC,C,Ireland,Malt
+Amrut Spectrum 004 (Batch 2),0,9.1,0.2,7,$125-300 CAD,SingleMalt-like,ABC,C,India,Malt
+Laphroaig 25yo,25,9.1,0.27,19,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Yamazaki 18yo,18,9.1,0.24,21,$125-300 CAD,SingleMalt-like,ABC,C,Japan,Malt
+Compass Box Last Vatted Malt,0,9.09,0.13,4,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Tamdhu 30yo (MacPhail Collection 2009),30,9.09,0.1,3,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 40),0,9.08,0.13,4,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 49),0,9.08,0.21,9,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 52),0,9.07,0.26,4,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Highland Park 17yo The Dark,17,9.07,0.38,12,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Kavalan Solist Sherry Cask,0,9.07,0.28,19,$125-300 CAD,SingleMalt-like,ABC,A,Taiwan,Malt
+Sheep Dip Old Hebridean 1990 Blended Malt,0,9.07,0.18,6,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Yamazaki Sherry Cask (all vintages),0,9.07,0.29,11,>$300 CAD,SingleMalt-like,ABC,A,Japan,Malt
+Bruichladdich 21yo CuvÌ©e 407 PX,21,9.06,0.21,5,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Highland Park 16yo Odin,16,9.06,0.26,7,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+GlenDronach Cask Strength (batch 2),0,9.05,0.13,8,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 53),0,9.04,0.11,4,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+BenRiach 18yo Albariza Pedro Ximenez Peated,18,9.04,0.2,7,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Bowmore Springtide,0,9.04,0.67,5,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+GlenDronach Cask Strength (batch 1),0,9.04,0.27,6,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Highland Park 18yo,18,9.04,0.26,26,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Aberlour A'Bunadh (Batch 58),0,9.03,0.15,6,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Benromach 10yo Cask Strength (100 proof),10,9.03,0.18,14,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Kilchoman Port Cask Matured,0,9.03,0.21,9,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Aberlour A'Bunadh (Batch 39),0,9.02,0.21,8,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Kavalan Solist Manzanilla Cask,0,9.02,0.21,8,>$300 CAD,SingleMalt-like,ABC,C,Taiwan,Malt
+Karuizawa 1990 Sherry Butt,0,9.01,0.28,4,>$300 CAD,SingleMalt-like,ABC,A,Japan,Malt
+GlenDronach vintage 20yo Single Cask (all vintages),20,9,0.35,14,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Kavalan Solist Vinho Barrique,0,9,0.34,15,$125-300 CAD,SingleMalt-like,ABC,A,Taiwan,Malt
+Aberlour A'Bunadh (Batch 35),0,8.99,0.23,5,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Arran Malt 21st Anniversary Edition,0,8.99,0.18,5,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Bladnoch 12yo Sherry Cask (Sheep label),12,8.99,0.26,3,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Highland Park 15yo Loki,15,8.99,0.25,16,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Springbank 21yo,21,8.99,0.26,12,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Aberlour A'Bunadh (Batch 45),0,8.98,0.23,7,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Bunnahabhain 18yo,18,8.98,0.2,18,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Kavalan Solist Amontillado Cask,0,8.98,0.3,8,>$300 CAD,SingleMalt-like,ABC,A,Taiwan,Malt
+Nikka Taketsuru 21yo,21,8.98,0.27,18,$125-300 CAD,SingleMalt-like,ABC,C,Japan,Malt
+Aberlour A'Bunadh (Batch 36),0,8.97,0.49,4,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Amrut Portonova,0,8.97,0.31,19,$70-125 CAD,SingleMalt-like,ABC,C,India,Malt
+Glenmorangie Signet,0,8.97,0.38,22,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Amrut PX Sherry Single Cask 2696 (LCBO),0,8.96,0.29,6,$125-300 CAD,SingleMalt-like,ABC,B,India,Malt
+BenRiach 17yo Solstice Peated Port (both editions),17,8.96,0.28,14,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Bowmore 15yo Laimrig,15,8.96,0.18,17,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Bushmills 21yo Single Malt,21,8.95,0.37,11,$125-300 CAD,SingleMalt-like,ABC,C,Ireland,Malt
+GlenDronach vintage 19yo Single Cask (all vintages),19,8.95,0.33,16,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glenlivet Alpha,0,8.95,0.1,4,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Hakushu Sherry Cask,0,8.95,0.45,7,>$300 CAD,SingleMalt-like,ABC,B,Japan,Malt
+Aberlour A'Bunadh (Batch 30),0,8.94,0.17,6,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 54),0,8.94,0.16,6,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+GlenDronach Cask Strength (batch 3),0,8.94,0.37,7,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Kavalan Solist Fino Sherry Cask,0,8.94,0.32,12,>$300 CAD,SingleMalt-like,ABC,A,Taiwan,Malt
+Aberlour A'Bunadh (all batches),0,8.93,0.15,25,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 47),0,8.93,0.33,10,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+BenRiach 17yo Solstice 2nd Peated Port Finish,17,8.93,0.42,14,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan Cask Strength,0,8.93,0.36,16,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Tomatin 40yo,40,8.93,0.38,3,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Balvenie TUN 1509 (all 3 batches),0,8.92,0.17,13,>$300 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+BenRiach 35yo,35,8.92,0.6,5,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Kavalan Solist Port Cask,0,8.92,0.38,10,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Aberlour A'Bunadh (Batch 46),0,8.91,0.09,4,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+BenRiach 17yo Solstice 1st Peated Port Finish,17,8.91,0.21,4,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+GlenDronach Cask Strength (batch 4),0,8.91,0.25,13,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glengoyne 40yo,40,8.91,0.82,3,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 42),0,8.9,0.26,4,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+GlenDronach Cask Strength (all batches),0,8.9,0.14,19,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glenlivet XXV 25yo,25,8.9,0.18,11,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Highland Park 21yo,21,8.9,0.39,17,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Laphroaig Cairdeas 2013 Port Wood,0,8.89,0.47,14,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan 18yo Sherry Oak,18,8.89,0.32,19,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Amrut PX Sherry Single Cask 3516 (SAQ),0,8.88,0.2,6,$70-125 CAD,SingleMalt-like,ABC,B,India,Malt
+Glengoyne 21yo,21,8.88,0.19,17,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Highland Park 16yo Thor,16,8.88,0.29,13,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Kilchoman PX Sherry Finish,0,8.88,0.18,8,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Amrut Intermediate Sherry,0,8.87,0.48,22,$70-125 CAD,SingleMalt-like,ABC,B,India,Malt
+Bunnahabhain 25yo,25,8.87,0.33,17,>$300 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+GlenDronach 15yo Revival,15,8.87,0.28,22,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+GlenDronach Cask Strength (batch 7),0,8.87,0.09,3,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Kilchoman Loch Gorm,0,8.87,0.22,21,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan 10yo Sherry Oak Cask Strength,10,8.87,0.53,6,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Springbank 12yo Cask Strength,12,8.87,0.25,19,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+White Oak Akashi 14yo,14,8.87,0.48,3,>$300 CAD,SingleMalt-like,ABC,C,Japan,Malt
+Aberlour A'Bunadh (Batch 34),0,8.86,0.29,5,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Box (High Coast) PX - Pedro XimÌ©nez Finish,0,8.86,0.18,8,$125-300 CAD,SingleMalt-like,ABC,C,Sweden,Malt
+Glen Garioch 1998 Wine Cask Matured,0,8.86,0.25,3,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Scallywag 13yo,13,8.86,0.05,4,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+AnCnoc 1975,0,8.85,0.56,4,>$300 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glenlivet Nadurra 16yo,16,8.85,0.2,23,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Amrut Kadhambam,0,8.84,0.27,16,$70-125 CAD,SingleMalt-like,ABC,C,India,Malt
+BenRiach 18yo Latada,18,8.84,0.16,7,$125-300 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+GlenDronach Cask Strength (batch 6),0,8.84,0.17,5,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Smogen Sherry Project 1:2,0,8.84,0.19,3,$70-125 CAD,SingleMalt-like,ABC,C,Sweden,Malt
+Deanston 2008 Bordeaux Red Wine Cask Matured,0,8.83,0.22,5,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+GlenDronach 12yo Sauternes Cask Finish,12,8.83,0.18,6,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Longmorn 15yo,15,8.83,0.38,8,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Longrow Red 12yo Pinot Noir Finish,12,8.83,0.34,7,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan 25yo Sherry Oak,25,8.83,0.46,8,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 32),0,8.82,0.7,4,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glenmorangie Companta,0,8.82,0.54,14,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Smogen Sherry Project 1:4,0,8.82,0.27,5,$70-125 CAD,SingleMalt-like,ABC,C,Sweden,Malt
+Aberlour 12yo Non-Chill-Filtered,12,8.81,0.22,13,$50-70 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Aberlour A'Bunadh (Batch 59),0,8.81,0.21,4,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 61),0,8.81,0.19,4,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Bunnahabhain 14yo 2003 Pedro Ximenez Finish,14,8.81,0.61,10,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glenlivet Nadurra Cask Strength (NAS),0,8.81,0.09,3,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Green Spot Chateau Leoville Barton,0,8.81,0.39,9,$70-125 CAD,SingleMalt-like,ABC,C,Ireland,Blend
+Laphroaig PX Triple Matured,0,8.81,0.56,17,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Amrut PX Sherry Single Cask (all casks),0,8.8,0.46,15,$70-125 CAD,SingleMalt-like,ABC,A,India,Malt
+Balblair 1990 Second Release,0,8.8,0.23,12,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glengoyne Teapot Dram (all batches),0,8.8,0.44,6,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Millstone 12yo Sherry Cask,12,8.8,0.36,10,$70-125 CAD,SingleMalt-like,ABC,C,Netherlands,Malt
+Royal Brackla 21yo,21,8.8,0.21,4,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Arran Malt Amarone Cask Finish,0,8.79,0.31,14,$50-70 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Bowmore 25yo,25,8.79,0.5,10,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glen Garioch 15yo Renaissance Chapter 1,15,8.79,0.24,7,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+GlenDronach Cask Strength (batch 5),0,8.79,0.16,9,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Highland Park Full Volume,0,8.79,0.23,12,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Kavalan Brandy Oak,0,8.79,0.26,6,$125-300 CAD,SingleMalt-like,ABC,A,Taiwan,Malt
+Glenmorangie Bacalta,0,8.78,0.32,8,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Aberlour A'Bunadh (Batch 48),0,8.77,0.51,4,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Compass Box This is Not a Luxury Whisky,0,8.77,0.44,13,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Longrow Red 11yo Australian Shiraz,11,8.77,0.33,7,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+AnCnoc 22yo,22,8.76,0.31,10,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Bowmore 10yo Devil's Cask (all batches),10,8.76,0.32,19,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+GlenDronach 18yo Tawny Port Finish,18,8.76,0.36,7,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glenfiddich Snow Phoenix,0,8.76,0.37,11,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Jura Brooklyn,0,8.76,0.21,6,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Longrow Red 11yo Port Cask,11,8.76,0.38,14,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Smogen Sherry Project 1:3,0,8.76,0.26,3,$70-125 CAD,SingleMalt-like,ABC,C,Sweden,Malt
+Balvenie 21yo Port Wood,21,8.75,0.38,21,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glenfarclas 25yo,25,8.75,0.28,15,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan Rare Cask,0,8.75,0.4,11,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Macallan Reflexion,0,8.75,0.35,4,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Macallan Ruby,0,8.75,0.21,13,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour 18yo,18,8.74,0.27,14,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Arran Malt Sassicaia Wine Cask Finish,0,8.74,0.17,5,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenfarclas 17yo,17,8.74,0.27,21,$125-300 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glenmorangie Nectar d'Or,0,8.74,0.27,22,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Longmorn 16yo,16,8.74,0.33,18,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan Classic Cut,0,8.74,0.17,8,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Redbreast Lustau Edition,0,8.74,0.28,13,$70-125 CAD,SingleMalt-like,ABC,C,Ireland,Malt
+Scallywag Cask Strength (all batches),0,8.74,0.07,5,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Springbank 15yo,15,8.74,0.22,20,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Aberlour A'Bunadh (Batch 50),0,8.73,0.34,7,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+GlenDronach 18yo Allardice,18,8.73,0.37,20,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+GlenDronach 21yo Parliament,21,8.73,0.34,21,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glengoyne Cask Strength (batch 1),0,8.73,0.47,4,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Highland Park 15yo Fire,15,8.73,0.34,11,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Springbank 13yo Green,13,8.73,0.31,6,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Ohishi Sherry Single Cask,0,8.72,0.37,5,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Deanston 10yo PX Finish,10,8.71,0.45,5,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenfarclas 105,0,8.71,0.35,25,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenrothes Minister's Reserve,0,8.71,0.16,4,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Teerenpeli Distiller‰Ûªs Choice KARHI,0,8.71,0.12,3,$70-125 CAD,SingleMalt-like,ABC,C,Finland,Malt
+Benromach 15yo,15,8.7,0.45,12,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Smogen Sherry Project 1:1,0,8.7,0.12,3,$70-125 CAD,SingleMalt-like,ABC,C,Sweden,Malt
+Tomatin 18yo,18,8.7,0.2,14,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glen Garioch 15yo Wine Cask Matured,15,8.69,0.24,4,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Highland Park 15yo,15,8.69,0.21,14,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Kilchoman Madeira Cask Matured,0,8.69,0.4,9,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan Sienna,0,8.69,0.33,18,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Mortlach 16yo (F&F),16,8.69,0.28,10,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Sheep Dip 1999 Amoroso Blended Malt,0,8.69,0.54,3,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Tomatin Cu Bocan 2005 Limited Edition,0,8.69,0.4,3,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Aberlour 16yo Double Cask Matured,16,8.68,0.17,14,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Knappogue Castle 16yo Twin Wood,16,8.68,0.43,7,$70-125 CAD,SingleMalt-like,ABC,C,Ireland,Malt
+Mortlach 15yo (Gordon & MacPhail),15,8.68,0.35,13,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Amrut Bengal Tiger PX Single Cask (Canada),0,8.67,0.25,6,$70-125 CAD,SingleMalt-like,ABC,C,India,Malt
+Glencadam 14yo Oloroso Sherry Cask Finish,14,8.67,0.47,5,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+GlenDronach 18yo Marsala Finish,18,8.67,0.09,4,$125-300 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glengoyne Cask Strength (batch 4),0,8.67,0.08,5,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glenmorangie The Taghta,0,8.67,0.29,11,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Karuizawa Asama Vintages 1999-2000,0,8.67,0.43,9,>$300 CAD,SingleMalt-like,ABC,C,Japan,Malt
+Tamdhu Batch Strength (both batches),0,8.67,0.44,12,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour A'Bunadh (Batch 38),0,8.66,0.19,3,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Arran Malt Madeira Wine Cask,0,8.66,0.43,12,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+BenRiach 12yo Matured in Sherry Wood,12,8.66,0.2,14,$50-70 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glengoyne Cask Strength (batch 2),0,8.66,0.41,3,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Sullivans Cove French Oak,0,8.66,0.28,8,>$300 CAD,SingleMalt-like,ABC,C,Tasmania,Malt
+Oban Distillers Edition (all vintages),0,8.65,0.24,16,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Redbreast Mano a LÌÁmh,0,8.65,0.37,4,$50-70 CAD,SingleMalt-like,ABC,C,Ireland,Malt
+Balvenie 17yo Doublewood,17,8.64,0.31,15,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+BenRiach 21yo Tawny Port Finish,21,8.64,0.32,3,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glengoyne Cask Strength (all batches),0,8.64,0.47,13,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Ledaig 18yo,18,8.64,0.68,10,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Longrow Red 14yo Burgundy Wood,14,8.63,0.64,6,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Swiss Highland Classic Single Malt,0,8.63,0.39,4,$125-300 CAD,SingleMalt-like,ABC,C,Switzerland,Malt
+Glenfarclas 21yo,21,8.62,0.29,16,$125-300 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glenfiddich 21yo Gran Reserva,21,8.62,0.39,16,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Highland Park Magnus (2017),0,8.62,0.17,8,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Highland Park Valknut,0,8.62,0.25,3,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+AnCnoc 2000,0,8.61,0.19,4,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Bowmore 15yo Darkest,15,8.61,0.31,23,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenfarclas 15yo,15,8.61,0.48,18,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Highland Park Valkyrie,0,8.61,0.21,11,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan 25yo Fine Oak,25,8.61,0.26,3,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Tomatin 14yo Portwood,14,8.61,0.32,11,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Aberlour A'Bunadh (Batch 57),0,8.6,0.5,5,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Bunnahabhain Moine (all bottlings),0,8.6,0.55,12,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Hazelburn 12yo (Springbank),12,8.6,0.32,19,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Ardbeg Galileo,0,8.59,0.6,17,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+GlenDronach 15yo Tawny Port Finish,15,8.59,0.48,7,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glenfiddich 15yo Solera,15,8.59,0.25,26,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+GlenDronach 12yo Original,12,8.58,0.23,22,$50-70 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Kilchoman Sherry Single Cask,0,8.58,0.62,15,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Tobermory 15yo,15,8.58,0.32,16,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Arran Malt Port Cask Finish,0,8.57,0.37,14,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Balblair 1989,0,8.57,0.4,11,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenfarclas 12yo,12,8.57,0.32,21,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glengoyne 18yo,18,8.57,0.32,16,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenmorangie Quinta Ruban,0,8.57,0.46,25,$50-70 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Santis Alpstein (all editions),0,8.57,0.1,3,$125-300 CAD,SingleMalt-like,ABC,C,Switzerland,Malt
+Spirit of Hven Sankt Claus,0,8.57,0.58,3,$125-300 CAD,SingleMalt-like,ABC,C,Sweden,Malt
+Aberfeldy 18yo,18,8.56,0.25,8,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Balvenie 16yo Triple Cask,16,8.56,0.25,10,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Tomatin Oloroso Sherry 1995,0,8.56,0.56,4,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Westland Winter 2016,0,8.56,0.52,5,$70-125 CAD,SingleMalt-like,ABC,C,USA,Malt
+Aberlour Casg Annamh,0,8.55,0.29,7,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Bowmore 12yo Enigma,12,8.55,0.36,12,$30-50 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glengoyne 12yo Cask Strength,12,8.55,0.42,10,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glenmorangie A Midwinter Night‰Ûªs Dram,0,8.55,0.3,8,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Dalmore 18yo,18,8.54,0.39,14,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Dalwhinnie Distillers Edition,0,8.54,0.28,10,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+"Glenfarclas 1968-2000 54.2% (OB, Old Stock Reserve, Ceramic)",0,8.54,0.23,3,>$300 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Macallan 30yo Fine Oak,30,8.54,0.36,6,>$300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Amrut Naarangi,0,8.53,0.61,10,$125-300 CAD,SingleMalt-like,ABC,C,India,Malt
+Arran Malt Sherry Single Cask,0,8.53,0.56,10,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glengoyne 12yo,12,8.53,0.34,12,$50-70 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Macallan Whisky Maker's Edition,0,8.53,0.35,14,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Talisker Port Ruighe,0,8.53,0.37,19,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Teerenpeli Distiller‰Ûªs Choice AURA,0,8.53,0.08,3,$125-300 CAD,SingleMalt-like,ABC,C,Finland,Malt
+Mackmyra Midvinter,0,8.52,0.54,3,$50-70 CAD,SingleMalt-like,ABC,C,Sweden,Malt
+Redbreast All Sherry Single Cask 1999,0,8.52,0.86,5,$125-300 CAD,SingleMalt-like,ABC,A,Ireland,Malt
+Tyrconnell 10yo Port Cask Finish,10,8.52,0.32,11,$70-125 CAD,SingleMalt-like,ABC,B,Ireland,Malt
+Glenfiddich 19yo Age of Discovery (Madeira Cask),19,8.51,0.43,14,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Glenmorangie Duthac,0,8.51,0.25,9,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan 12yo Sherry Oak,12,8.51,0.35,23,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Amrut PX Sherry Single Cask 2701,0,8.5,0.71,3,$70-125 CAD,SingleMalt-like,ABC,B,India,Malt
+Glengoyne 15yo,15,8.5,0.52,10,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glenmorangie The Tayne,0,8.5,0.21,10,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Jura 18yo,18,8.49,0.34,3,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Kavalan Sherry Oak,0,8.49,0.5,7,$125-300 CAD,SingleMalt-like,ABC,B,Taiwan,Malt
+Glen Moray Classic Sherry Cask finish,0,8.48,0.21,5,$30-50 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glenmorangie Dornoch,0,8.48,0.64,9,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Jura 16yo Diurach's Own,16,8.48,0.36,15,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Smogen PrimÌ¦r,0,8.48,0.25,4,$125-300 CAD,SingleMalt-like,ABC,C,Sweden,Malt
+Aberfeldy 16yo,16,8.47,0.21,4,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Bushmills 16yo Single Malt,16,8.47,0.47,19,$70-125 CAD,SingleMalt-like,ABC,B,Ireland,Malt
+Glen Garioch 1999 Sherry Cask Matured,0,8.47,0.95,8,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glengoyne Cask Strength (batch 3),0,8.47,0.72,6,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Glenglassaugh 26yo,26,8.46,0.54,8,>$300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Green Spot Chateau Montelena,0,8.46,0.37,5,$70-125 CAD,SingleMalt-like,ABC,C,Ireland,Blend
+Ledaig 1996,0,8.46,0.82,3,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenmorangie Milsean,0,8.45,0.39,12,$125-300 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Highland Park Dark Origins,0,8.45,0.49,22,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Blair Athol 12yo (F&F),12,8.44,0.43,9,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Longrow Red 11yo Cabernet Sauvignon,11,8.44,1.09,11,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Penderyn Portwood,0,8.44,0.3,6,$50-70 CAD,SingleMalt-like,ABC,C,Wales,Malt
+BenRiach 15yo Tawny Port Finish,15,8.43,0.28,13,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glentauchers 1991 18yo (Gordon & MacPhail),18,8.42,0.23,3,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Highland Park 12yo Saint Magnus,12,8.42,0.34,6,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan 10yo Sherry Oak,10,8.42,0.31,11,$50-70 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Tyrconnell 10yo Sherry Cask Finish,10,8.42,0.4,8,$70-125 CAD,SingleMalt-like,ABC,B,Ireland,Malt
+Westland Sherry Wood,0,8.42,0.44,15,$70-125 CAD,SingleMalt-like,ABC,B,USA,Malt
+Balvenie 12yo Doublewood,12,8.41,0.33,24,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Dalmore Cigar Malt,0,8.41,0.4,7,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenmorangie Lasanta,0,8.4,0.35,22,$50-70 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Lismore 21yo,21,8.4,0.16,4,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Wemyss Malts The Spice King,0,8.4,0.29,13,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Jura 21yo,21,8.39,0.71,7,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Aberlour 12yo Double Cask Matured,12,8.38,0.21,18,$50-70 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Teeling Single Malt,0,8.38,0.3,10,$70-125 CAD,SingleMalt-like,ABC,C,Ireland,Malt
+Glenlivet Nadurra Oloroso,0,8.37,0.66,13,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Bushmills Black Bush,0,8.36,0.38,22,$30-50 CAD,SingleMalt-like,ABC,C,Ireland,Blend
+Glen Moray Classic Port Cask finish,0,8.36,0.21,4,$30-50 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+GlenDronach 14yo Sauternes Cask Finish,14,8.36,0.4,6,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Writers Tears Red Head Single Malt,0,8.36,0.34,7,$50-70 CAD,SingleMalt-like,ABC,C,Irish,Malt
+Bruichladdich Rocks,0,8.35,0.3,11,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Bushmills Sherry Cask Reserve,0,8.35,0.43,5,$70-125 CAD,SingleMalt-like,ABC,C,Ireland,Malt
+Singleton of Glen Ord 18yo,18,8.35,0.29,3,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Arran Malt Sherry Cask Finish,0,8.34,0.53,11,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Arran Malt Pomerol Bordeaux Cask Finish,0,8.33,0.65,8,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Tomatin Cu Bocan Sherry Edition,0,8.33,0.3,4,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glencadam 12yo Port Wood Finish,12,8.32,0.32,6,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenfarclas 10yo,10,8.32,0.32,17,$50-70 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Balvenie 12yo Triple Cask,12,8.31,0.46,11,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Benrinnes 15yo F&F,15,8.31,0.81,7,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Dalmore 15yo,15,8.3,0.46,21,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Jura 12yo Elixir,12,8.3,0.45,11,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Ohishi Sherry Cask,0,8.3,0.43,5,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Dalmore Cigar Malt Reserve,0,8.29,0.64,13,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenfiddich Malt Master's Edition,0,8.29,0.3,7,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Bladnoch 15yo Adela,15,8.28,0.31,6,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Jura 21yo 200th Anniversary,21,8.27,0.77,4,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Kavalan Concertmaster Port Cask,0,8.27,0.53,21,$70-125 CAD,SingleMalt-like,ABC,C,Taiwan,Malt
+Auchentoshan Three Wood,0,8.26,0.42,23,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Dalmore King Alexander III,0,8.24,0.47,12,$125-300 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glen Moray 16yo,16,8.24,0.54,8,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Wemyss Malts Velvet Fig,0,8.24,1.16,5,$50-70 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Aberlour 10yo,10,8.23,0.37,16,$30-50 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Bowmore Black Rock,0,8.23,0.33,9,$30-50 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glen Garioch 16yo Renaissance Chapter 2,16,8.23,0.57,5,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenfiddich Reserve Cask,0,8.23,0.25,8,$50-70 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Jura Seven Wood,0,8.21,0.29,3,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Macallan Select Oak,0,8.21,0.33,12,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Mackmyra Skordetid,0,8.21,0.61,4,$125-300 CAD,SingleMalt-like,ABC,C,Sweden,Malt
+Glenrothes Robur Reserve,0,8.2,0.4,6,$30-50 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Tullibardine 500 Sherry Finish,0,8.19,0.3,8,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Glenglassaugh Revival,0,8.17,0.47,13,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Ben Nevis 10yo,10,8.16,0.43,11,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Singleton of Dufftown Tailfire,0,8.15,0.41,4,$30-50 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Mackmyra Blomstertid,0,8.13,0.22,3,$70-125 CAD,SingleMalt-like,ABC,C,Sweden,Malt
+Glenrothes Sherry Cask Reserve,0,8.09,0.7,10,$70-125 CAD,SingleMalt-like,ABC,A,Scotland,Malt
+Dalmore Gran Reserva,0,8.08,0.33,10,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Lohin McKinnon Wine Barrel Finished (Black Sage),0,8.08,0.66,5,$50-70 CAD,SingleMalt-like,ABC,C,Canada,Malt
+Laphroaig Select,0,8.04,0.36,15,$50-70 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Longmorn Distiller's Choice,0,8.04,0.43,9,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Bladnoch Samsara,0,8,0.69,4,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Royal Lochnagar 12yo,12,7.97,0.29,15,$30-50 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Tullibardine 1993 Port,0,7.97,0.37,5,$70-125 CAD,SingleMalt-like,ABC,B,Scotland,Malt
+Jura 16yo,16,7.96,0.5,5,$70-125 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Penderyn Madeira,0,7.95,0.95,14,$70-125 CAD,SingleMalt-like,ABC,B,Wales,Malt
+Amrut PX Sherry Single Cask 2702,0,7.9,0.92,3,$70-125 CAD,SingleMalt-like,ABC,B,India,Malt
+Jura Turas Mara,0,7.9,0.54,5,$30-50 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Penderyn Sherrywood,0,7.87,0.63,11,$70-125 CAD,SingleMalt-like,ABC,B,Wales,Malt
+Singleton of Dufftown Spey Cascade,0,7.48,0.58,3,$30-50 CAD,SingleMalt-like,ABC,C,Scotland,Malt
+Ichiro's Malt The Joker,0,9.22,0.19,4,>$300 CAD,SingleMalt-like,EF,F,Japan,Malt
+Bruichladdich Black Art 6.x 1990,0,9.21,0.1,3,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Hibiki 21yo,21,9.14,0.24,10,>$300 CAD,SingleMalt-like,EF,E,Japan,Blend
+Bunnahabhain 40yo,40,9.12,0.34,6,>$300 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Midleton Dair Ghaelach,0,9.1,0.27,9,$125-300 CAD,SingleMalt-like,EF,E,Ireland,Blend
+Bruichladdich Black Art 3.x 1989,0,9.09,0.4,12,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mortlach 16yo,16,9.08,0.12,3,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glencadam 25yo,25,9.07,0.02,3,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Midleton Very Rare 2017,0,9.07,0.35,3,$125-300 CAD,SingleMalt-like,EF,E,Ireland,Blend
+Glenfiddich 30yo,30,9.05,0.1,4,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Redbreast 12yo Cask Strength,12,9.05,0.3,20,$70-125 CAD,SingleMalt-like,EF,E,Ireland,Malt
+Compass Box Phenomenology,0,9.04,0.2,6,$125-300 CAD,SingleMalt-like,EF,F,Scotland,Malt
+GlenDronach 19yo Madeira Finish,19,9.04,0.24,5,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Cragganmore 25yo,25,9.02,0.05,4,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Bruichladdich Black Art 2.x 1989,0,9.01,0.16,8,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Amrut Double Cask,0,9,0.19,9,$70-125 CAD,SingleMalt-like,EF,E,India,Malt
+Macallan Edition No. 4,0,9,0.37,8,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mackmyra Reserve Single Cask (various casks),0,9,0.5,7,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Aultmore 25yo,25,8.97,0.21,5,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Amrut Virgin Oak Single Cask,0,8.96,0.17,4,$70-125 CAD,SingleMalt-like,EF,E,India,Malt
+Compass Box 3yo Deluxe,3,8.96,0.23,9,>$300 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Old Pulteney 15yo,15,8.96,0.21,4,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Old Pulteney 25yo,25,8.95,0.18,6,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Yamazaki Mizunara,0,8.94,0.21,8,>$300 CAD,SingleMalt-like,EF,E,Japan,Malt
+Craigellachie 23yo,23,8.93,0.22,10,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Arran Malt 18yo,18,8.92,0.12,16,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Kavalan ex-Bourbon Oak,0,8.92,0.23,6,$70-125 CAD,SingleMalt-like,EF,E,Taiwan,Malt
+Tomatin Decades,0,8.92,0.52,9,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Bruichladdich Black Art 5.x 1992,0,8.91,0.35,7,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Macallan Edition No. 2,0,8.91,0.21,16,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Caol Ila 18yo Unpeated 2017,18,8.9,0.31,12,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenlivet Nadurra First Fill (White Oak),0,8.9,0.23,5,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Yamazaki Limited Edition 2016,0,8.9,0.25,3,>$300 CAD,SingleMalt-like,EF,E,Japan,Malt
+Amrut Herald,0,8.89,0.15,6,$70-125 CAD,SingleMalt-like,EF,E,India,Malt
+Amrut Fusion,0,8.88,0.27,25,$70-125 CAD,SingleMalt-like,EF,E,India,Malt
+Glen Grant 25yo,25,8.88,0.18,3,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenmorangie Ealanta,0,8.88,0.28,16,>$300 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Box (High Coast) The 2nd Step Collection 02,0,8.86,0.14,8,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Glenmorangie Astar,0,8.86,0.25,17,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Arran Malt Bourbon Single Cask,0,8.85,0.24,10,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Kavalan Solist Ex-Bourbon,0,8.85,0.22,20,$125-300 CAD,SingleMalt-like,EF,E,Taiwan,Malt
+Kininvie 17yo (all batches),17,8.85,0.3,9,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Macallan Edition No. 3,0,8.85,0.17,10,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Arran Malt 17yo,17,8.84,0.24,11,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Arran Malt The Devil‰Ûªs Punch Bowl (all chapters),0,8.84,0.28,10,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mackmyra Moment GlÌ¦d,0,8.83,0.43,4,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Glenlivet 21yo Archive (all batches),21,8.82,0.28,13,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Nikka From the Barrel,0,8.82,0.36,24,$50-70 CAD,SingleMalt-like,EF,F,Japan,Blend
+Compass Box Spice Tree Extravaganza,0,8.81,0.27,10,$125-300 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Midleton Very Rare (all vintages),0,8.81,0.44,12,$125-300 CAD,SingleMalt-like,EF,E,Ireland,Blend
+Auchentoshan 21yo,21,8.8,0.26,12,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mackmyra Moment Urberg,0,8.8,0.25,3,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Paul John Single Cask,0,8.8,0.44,6,$70-125 CAD,SingleMalt-like,EF,E,India,Malt
+Amrut Two Continents,0,8.79,0.44,15,$70-125 CAD,SingleMalt-like,EF,E,India,Malt
+Bruichladdich 21yo CuvÌ©e 640 Eroica,21,8.79,0.42,10,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenfiddich Project XX Experimental Series No. 2,0,8.79,0.22,10,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Macallan Edition No. 1,0,8.79,0.47,10,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Aberfeldy 21yo,21,8.78,0.19,10,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+BenRiach 25yo,25,8.78,0.43,15,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Compass Box Spice Tree,0,8.78,0.32,24,$70-125 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Cragganmore NAS (Special Release 2016),0,8.78,0.62,5,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Nikka Taketsuru 17yo,17,8.78,0.26,15,$125-300 CAD,SingleMalt-like,EF,E,Japan,Malt
+Strathmill 25yo,25,8.78,0.42,4,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Arran Malt Tokaji Aszu Wine Finish,0,8.77,0.36,4,$70-125 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Glen Grant Five Decades,0,8.77,0.23,6,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenfiddich Winter Storm 21yo Experimental Series No. 3,21,8.77,0.37,9,>$300 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Midleton Very Rare 2016,0,8.77,0.39,3,$125-300 CAD,SingleMalt-like,EF,E,Ireland,Blend
+Mortlach Special Strength,0,8.77,0.59,6,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Old Pulteney 17yo,17,8.77,0.24,20,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Clynelish 14yo,14,8.76,0.26,18,$70-125 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Hakushu 18yo,18,8.76,0.28,9,$125-300 CAD,SingleMalt-like,EF,F,Japan,Malt
+Hibiki 17yo,17,8.76,0.32,17,$125-300 CAD,SingleMalt-like,EF,E,Japan,Blend
+Mackmyra Moment Rimfrost,0,8.75,0.36,3,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Nikka Coffey Malt,0,8.75,0.4,13,$70-125 CAD,SingleMalt-like,EF,E,Japan,Malt
+Glenfiddich Cask of Dreams,0,8.74,0.21,8,$125-300 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Mackmyra Special 04,0,8.74,0.36,8,$70-125 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Redbreast 15yo,15,8.74,0.25,17,$70-125 CAD,SingleMalt-like,EF,E,Ireland,Malt
+Amrut Bourbon Single Cask,0,8.73,0.33,13,$70-125 CAD,SingleMalt-like,EF,E,India,Malt
+Redbreast 12yo,12,8.73,0.41,23,$50-70 CAD,SingleMalt-like,EF,E,Ireland,Malt
+Arran Malt Napoleon Cognac Finish,0,8.72,0.68,5,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenfiddich 19yo Age of Discovery (Bourbon Cask),19,8.71,0.26,10,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Box (High Coast) The Festival 2016,0,8.7,0.04,3,$125-300 CAD,SingleMalt-like,EF,F,Sweden,Malt
+Bruichladdich 21yo CuvÌ©e 382 La Berenice,21,8.7,0.57,8,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenmorangie 18yo,18,8.7,0.28,18,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenfiddich 15yo Distillery Edition,15,8.69,0.29,15,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mortlach 18yo,18,8.69,0.61,10,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mackmyra Special 03,0,8.68,0.29,7,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Storas 21yo Rare Cask Reserves Blended,21,8.68,0.13,4,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Blend
+AnCnoc 18yo,18,8.67,0.33,10,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Macallan 18yo Fine Oak,18,8.67,0.21,7,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Balvenie 12yo Single Barrel,12,8.66,0.34,13,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Balvenie 25yo Single Barrel,25,8.65,0.93,3,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Bunnahabhain 12yo,12,8.65,0.26,25,$50-70 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Glen Garioch 12yo,12,8.65,0.3,17,$70-125 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Ichiro's Malt Double Distilleries,0,8.65,0.24,8,$125-300 CAD,SingleMalt-like,EF,E,Japan,Malt
+Westland Single Cask,0,8.65,0.1,4,$70-125 CAD,SingleMalt-like,EF,E,USA,Malt
+Balcones Texas Single Malt Whisky,0,8.63,0.3,16,$70-125 CAD,SingleMalt-like,EF,E,USA,Malt
+Kilkerran Work in Progress Sherry Wood,0,8.63,0.4,12,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Bruichladdich Black Art 4.x 1990,0,8.62,0.6,12,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenrothes Vintage 1995 (all bottlings),0,8.62,0.3,17,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenlivet Cipher,0,8.61,0.33,7,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mackmyra Special 09,0,8.61,0.22,4,$70-125 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Paul John Classic Select Cask,0,8.61,0.37,7,$70-125 CAD,SingleMalt-like,EF,E,India,Malt
+Caol Ila 17yo Unpeated 2015,17,8.6,0.46,11,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Sullivans Cove American Oak,0,8.6,0.37,7,$125-300 CAD,SingleMalt-like,EF,E,Tasmania,Malt
+Compass Box Oak Cross,0,8.59,0.38,15,$50-70 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Copperworks American Single Malt,0,8.59,0.21,5,$50-70 CAD,SingleMalt-like,EF,E,USA,Malt
+Glenfiddich 18yo,18,8.59,0.34,22,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenlivet 18yo,18,8.58,0.22,24,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Craigellachie 17yo,17,8.56,0.19,11,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Deanston 18yo (Bourbon Finish),18,8.56,0.47,7,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenfiddich 14yo Rich Oak,14,8.56,0.33,11,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Royal Brackla 16yo,16,8.56,0.29,11,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glengoyne 17yo,17,8.55,0.27,14,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Midleton Very Rare 2015,0,8.55,0.41,5,$125-300 CAD,SingleMalt-like,EF,E,Ireland,Blend
+Teerenpeli Distiller's Choice KASKI,0,8.55,0.25,3,$70-125 CAD,SingleMalt-like,EF,E,Finland,Malt
+Sullivans Cove Port Cask Strength,0,8.54,0.63,8,$125-300 CAD,SingleMalt-like,EF,E,Tasmania,Malt
+Tyrconnell 10yo Madeira Cask Finish,10,8.54,0.34,12,$70-125 CAD,SingleMalt-like,EF,E,Ireland,Malt
+Mackmyra Moment Jord,0,8.53,0.65,3,$70-125 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Nikka Pure Malt Red,0,8.53,0.31,10,$50-70 CAD,SingleMalt-like,EF,E,Japan,Malt
+Sullivans Cove Bourbon Cask Strength,0,8.53,0.74,6,$70-125 CAD,SingleMalt-like,EF,F,Tasmania,Malt
+Teerenpeli Distiller‰Ûªs Choice RASI,0,8.53,0.37,3,$70-125 CAD,SingleMalt-like,EF,E,Finland,Malt
+Yamazaki Distiller's Reserve,0,8.53,0.29,8,$70-125 CAD,SingleMalt-like,EF,E,Japan,Malt
+Arran Malt Sauternes Finish,0,8.52,0.3,14,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Box (High Coast) The Messenger,0,8.52,0.42,4,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Balvenie 14yo Carribean Cask,14,8.51,0.32,21,$70-125 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Kininvie 23yo (all batches),23,8.51,0.37,9,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Singleton of Glendullan 15yo,15,8.51,0.38,4,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Westland American Single Malt,0,8.51,0.33,15,$70-125 CAD,SingleMalt-like,EF,E,USA,Malt
+Glen Grant 16yo,16,8.5,0.3,7,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Green Spot,0,8.5,0.35,19,$70-125 CAD,SingleMalt-like,EF,F,Ireland,Malt
+Macallan 21yo Fine Oak,21,8.5,0.4,6,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Old Pulteney 18yo,18,8.5,0.63,3,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Paul John Brilliance,0,8.5,0.36,11,$50-70 CAD,SingleMalt-like,EF,E,India,Malt
+Mackmyra Special 05,0,8.48,0.38,7,$70-125 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Glen Grant 18yo,18,8.47,0.68,8,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mackmyra Moment Solsken,0,8.47,0.52,3,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Singleton of Glen Ord 15yo,15,8.47,0.4,5,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mackmyra Moment KÌ_lla,0,8.46,0.3,3,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Auchentoshan Bartender's Malt,0,8.45,0.48,8,$30-50 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenrothes Vintage Reserve (NAS),0,8.45,0.23,7,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+GlenDronach 8yo The Hielan,8,8.44,0.31,11,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenfiddich IPA Cask Finish Experimental Series No. 1,0,8.44,0.27,15,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Macallan 15yo Fine Oak,15,8.44,0.51,12,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mortlach Rare Old,0,8.44,0.38,16,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Nikka All Malt,0,8.44,0.18,8,$30-50 CAD,SingleMalt-like,EF,E,Japan,Malt
+Old Pulteney 12yo,12,8.44,0.25,26,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Benromach Organic,0,8.43,0.54,16,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mackmyra Moment MalstrÌ¦m (Maelstrom),0,8.43,0.75,3,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Tullibardine 25yo,25,8.43,0.37,7,>$300 CAD,SingleMalt-like,EF,E,Ireland,Malt
+Bunnahabhain Stiuireadair,0,8.42,0.34,6,$50-70 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Dalmore 12yo,12,8.42,0.28,20,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glen Elgin 12yo,12,8.42,0.21,16,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Bunnahabhain Eirigh Na Greine,0,8.41,0.44,10,$70-125 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Deveron 18yo,18,8.41,0.55,7,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Macallan 12yo Double Cask,12,8.41,0.4,11,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Bushmills 12yo Single Malt,12,8.4,0.16,3,$125-300 CAD,SingleMalt-like,EF,E,Ireland,Malt
+Mackmyra Special 08,0,8.4,0.27,4,$70-125 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Mackmyra Special 10,0,8.4,0.5,3,$70-125 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Nikka Taketsuru 12yo,12,8.4,0.37,19,$70-125 CAD,SingleMalt-like,EF,E,Japan,Malt
+Teerenpeli 8yo,8,8.4,0.39,7,$125-300 CAD,SingleMalt-like,EF,E,Finland,Malt
+Bunnahabhain Darach Ur,0,8.39,0.31,10,$50-70 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Tomatin 15yo,15,8.39,0.38,7,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenlivet 15yo French Oak,15,8.38,0.25,19,$70-125 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Okanagan Spirits Laird of Fintry (all editions),0,8.38,0.72,8,$50-70 CAD,SingleMalt-like,EF,E,Canada,Malt
+Auchentoshan 18yo,18,8.37,0.37,16,$125-300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Craigellachie 14yo,14,8.37,0.28,6,>$300 CAD,SingleMalt-like,EF,F,Scotland,Malt
+BenRiach 12yo Horizons,12,8.35,0.32,7,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Old Pulteney Navigator,0,8.34,0.36,13,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Singleton of Dufftown 18yo,18,8.34,0.13,6,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Knappogue Castle 14yo Twin Wood,14,8.33,0.27,5,$70-125 CAD,SingleMalt-like,EF,E,Ireland,Malt
+Tullibardine 225 Sauternes Finish,0,8.33,0.39,6,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Cragganmore 12yo,12,8.32,0.29,19,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenrothes Vintage 1998 (2014),0,8.32,0.59,12,$70-125 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Singleton of Dufftown 15yo,15,8.32,0.19,7,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Deveron 12yo,12,8.3,0.28,7,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Monkey Shoulder,0,8.3,0.38,19,$30-50 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Teeling Small Batch (Rum Cask Finish),0,8.3,0.39,23,$30-50 CAD,SingleMalt-like,EF,E,Ireland,Blend
+Glencadam Origin 1825 (NAS),0,8.29,0.12,4,$30-50 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Ohishi Brandy Cask,0,8.29,0.18,3,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Sullivans Cove Double Cask,0,8.29,0.49,14,$70-125 CAD,SingleMalt-like,EF,E,Tasmania,Malt
+Wemyss Malts Smooth Gentleman,0,8.29,0.11,3,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenfiddich 14yo Bourbon Barrel Reserve,14,8.28,0.3,11,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Macallan Amber,0,8.28,0.36,13,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Scapa 16yo,16,8.28,0.29,16,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Singleton of Glen Ord 12yo,12,8.28,0.28,6,$30-50 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Auchentoshan 12yo,12,8.27,0.26,23,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Bruichladdich Black Art 1989,0,8.25,0.38,4,>$300 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Gouden Carolus Single Malt,0,8.25,0.37,5,$70-125 CAD,SingleMalt-like,EF,E,Belgium,Malt
+Macallan 10yo Fine Oak,10,8.25,0.3,19,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Stalk & Barrel Single Malt (All Casks),0,8.25,0.42,13,$50-70 CAD,SingleMalt-like,EF,F,Canada,Malt
+Glenrothes Elders' Reserve,0,8.24,0.71,7,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Tobermory 10yo,10,8.24,0.41,23,$50-70 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Mackmyra Moment Jakt,0,8.23,0.57,3,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Royal Brackla 12yo,12,8.23,0.47,12,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Deanston 12yo,12,8.22,0.46,19,$50-70 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Edradour 10yo,10,8.22,0.69,17,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glen Breton 21yo,21,8.22,0.38,3,$125-300 CAD,SingleMalt-like,EF,E,Canada,Malt
+Scallywag,0,8.22,0.55,14,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Bruichladdich Sherry Classic,0,8.21,0.89,6,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Strathisla 12yo,12,8.21,0.31,14,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Tomintoul 12yo Oloroso Sherry,12,8.19,0.56,11,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenfiddich Select Cask,0,8.18,0.39,10,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Tullibardine 1993 Sauternes,0,8.17,0.33,5,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenrothes Vintage 2001 (all bottlings),0,8.16,0.62,9,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Arran Malt Robert Burns Single Malt,0,8.15,0.56,9,$30-50 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Aberfeldy 12yo,12,8.14,0.33,20,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Auchroisk 10yo (F&F),10,8.14,0.09,4,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glen Moray 10yo Chardonnay Cask,10,8.1,0.54,14,$30-50 CAD,SingleMalt-like,EF,F,Scotland,Malt
+BenRiach 15yo Sauternes Finish,15,8.09,0.51,3,$70-125 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Glen Garioch Virgin Oak,0,8.08,0.5,6,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glenlivet 12yo,12,8.08,0.29,22,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Singleton of Dufftown UnitÌ©,0,8.08,0.29,4,$30-50 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Miltonduff 10yo (F&F),10,8.07,0.41,4,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Tullibardine 228 Burgundy Finish,0,8.06,0.32,5,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Tomatin 12yo,12,8.05,0.45,20,$30-50 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Dalmore Valour,0,8.04,0.34,11,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Nikka Super,0,8.04,0.42,8,$50-70 CAD,SingleMalt-like,EF,E,Japan,Malt
+Singleton of Glendullan 12yo,12,8.04,0.42,14,$30-50 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Tullamore Dew 10yo Single Malt,10,8.02,0.79,6,$50-70 CAD,SingleMalt-like,EF,E,Ireland,Malt
+Glenburgie 10yo (Gordon & MacPhail),10,8.01,0.37,7,$50-70 CAD,SingleMalt-like,EF,F,Scotland,Malt
+The Irishman Single Malt (NAS),0,7.99,0.28,6,$50-70 CAD,SingleMalt-like,EF,E,Ireland,Malt
+Glenlivet Founder's Reserve,0,7.97,0.35,18,$30-50 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glen Deveron 10yo (Macduff),10,7.96,0.37,5,$30-50 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Millstone 8yo French Oak,8,7.95,0.63,4,$70-125 CAD,SingleMalt-like,EF,E,Netherlands,Malt
+Scapa Skiren,0,7.94,0.57,12,$70-125 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Santis Edition Sigel,0,7.93,0.74,8,$50-70 CAD,SingleMalt-like,EF,E,Switzerland,Malt
+Singleton of Dufftown 12yo,12,7.91,0.47,11,$30-50 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Singleton of Glen Ord Signature,0,7.9,0.3,3,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Glen Moray 12yo Chenin Blanc,12,7.86,0.76,6,$30-50 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Penderyn Legend,0,7.85,0.75,9,$50-70 CAD,SingleMalt-like,EF,F,Wales,Malt
+Glenrothes Select Reserve,0,7.77,0.38,14,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Penderyn Aur Cymru,0,7.72,0.6,8,$70-125 CAD,SingleMalt-like,EF,E,Wales,Malt
+Speyside 10yo,10,7.71,0.62,4,$50-70 CAD,SingleMalt-like,EF,E,Scotland,Malt
+Mars Iwai Tradition,0,7.67,0.94,5,$70-125 CAD,SingleMalt-like,EF,E,Japan,Blend
+Mackmyra Special 01,0,7.6,0.44,3,$125-300 CAD,SingleMalt-like,EF,E,Sweden,Malt
+Glen Moray 16yo Chenin Blanc,16,7.58,0.57,4,$50-70 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Santis Edition SÌ_ntis,0,7.54,0.82,7,$70-125 CAD,SingleMalt-like,EF,F,Switzerland,Malt
+McClelland's Speyside Single Malt,0,6.94,0.82,7,$30-50 CAD,SingleMalt-like,EF,F,Scotland,Malt
+Kavalan Solist Moscatel Cask,0,9.21,0.17,6,>$300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Midleton Barry Crockett Legacy,0,9.12,0.23,10,$125-300 CAD,SingleMalt-like,GH,G,Ireland,Blend
+Highland Park 17yo The Light,17,9.05,0.23,6,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Yamazaki Limited Edition 2015,0,8.97,0.09,3,>$300 CAD,SingleMalt-like,GH,G,Japan,Malt
+Kirin 18yo (Fuji Sanroku),18,8.96,0.46,4,>$300 CAD,SingleMalt-like,GH,G,Japan,Malt
+Mackmyra Iskristall,0,8.91,0.26,3,$125-300 CAD,SingleMalt-like,GH,G,Sweden,Malt
+Box (High Coast) The 2nd Step Collection 03,0,8.9,0.4,3,$125-300 CAD,SingleMalt-like,GH,G,Sweden,Malt
+Teeling Silver Reserve 21yo Sauternes Finish,21,8.9,0.34,10,$125-300 CAD,SingleMalt-like,GH,H,Ireland,Malt
+Bruichladdich Laddie Twenty Two 22yo,22,8.88,0.26,11,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Mackinlay's Shackleton Rare Old Highland Malt Discovery edition,0,8.87,0.4,16,$125-300 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Mackmyra Vinterdrom,0,8.87,0.06,3,$125-300 CAD,SingleMalt-like,GH,G,Sweden,Malt
+Bruichladdich Laddie Ten 10yo (Second Edition),10,8.86,0.24,10,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Kilkerran 12yo,12,8.86,0.22,16,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Kavalan Distillery Reserve Rum Cask,0,8.85,0.27,3,$125-300 CAD,SingleMalt-like,GH,G,Taiwan,Malt
+Compass Box Double Single,0,8.84,0.31,8,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Blend
+Compass Box Double Single (all editions),0,8.83,0.29,9,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Blend
+Bruichladdich Laddie Ten 10yo,10,8.81,0.28,18,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glencadam 21yo,21,8.81,0.26,12,$125-300 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Arran Malt Orkney Bere Barley,0,8.8,0.31,8,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Benromach 5yo,5,8.8,0.19,4,$30-50 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Compass Box Enlightenment,0,8.79,0.21,5,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Kilkerran Work in Progress Bourbon Wood,0,8.79,0.38,12,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glen Breton Ice 17yo,17,8.78,0.1,3,$125-300 CAD,SingleMalt-like,GH,G,Canada,Malt
+Glencadam 30yo,30,8.78,0.21,3,>$300 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Macallan 17yo Fine Oak,17,8.78,0.5,11,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Mackinlay's Shackleton Rare Old Highland Malt (both limited editions),0,8.78,0.36,18,$125-300 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Old Pulteney 21yo,21,8.78,0.43,20,$125-300 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Yamazaki Bourbon Barrel,0,8.78,0.24,9,$125-300 CAD,SingleMalt-like,GH,G,Japan,Malt
+Balvenie 15yo Single Barrel (Cask),15,8.77,0.39,24,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glenmorangie Spios Private Edition No 9,0,8.76,0.24,12,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Bruichladdich Laddie Sixteen 16yo,16,8.75,0.21,13,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glenmorangie Tusail,0,8.75,0.31,16,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Hakushu 10yo,10,8.74,0.2,4,$50-70 CAD,SingleMalt-like,GH,H,Japan,Malt
+Bladnoch 19yo (Cow label),19,8.73,0.22,4,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Caol Ila 15yo Unpeated,15,8.71,0.41,12,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Hakushu 12yo,12,8.71,0.21,20,$70-125 CAD,SingleMalt-like,GH,H,Japan,Malt
+AnCnoc 16yo,16,8.7,0.32,15,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Mackmyra Ten Years 10yo,10,8.7,0.12,5,$125-300 CAD,SingleMalt-like,GH,H,Sweden,Malt
+Glenfiddich 26yo Excellence,26,8.69,0.46,6,>$300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Kavalan Podium,0,8.68,0.31,9,$70-125 CAD,SingleMalt-like,GH,G,Taiwan,Malt
+Arran Malt 14yo,14,8.67,0.25,23,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Yamazaki 12yo,12,8.67,0.3,25,$70-125 CAD,SingleMalt-like,GH,G,Japan,Malt
+Mackmyra The First Edition (Den FÌ¦rsta UtgÌ´van),0,8.66,0.33,17,$50-70 CAD,SingleMalt-like,GH,H,Sweden,Malt
+Arran Malt 12yo Cask Strength (all editions),12,8.64,0.37,14,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Dalwhinnie 15yo,15,8.64,0.34,20,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Old Pulteney Huddart,0,8.64,0.22,3,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Glenmorangie The Tarlogan,0,8.62,0.32,6,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Hibiki 12yo,12,8.62,0.24,21,$70-125 CAD,SingleMalt-like,GH,G,Japan,Blend
+Stronachie 18yo,18,8.61,0.3,7,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Yamazaki Puncheon,0,8.61,0.24,11,$125-300 CAD,SingleMalt-like,GH,G,Japan,Malt
+AnCnoc 12yo,12,8.6,0.32,20,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+BenRiach Cask Strength,0,8.6,0.43,9,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Compass Box Rivals,0,8.6,0.09,5,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Blend
+Mackinlay's Shackleton Rare Old Highland Malt Journey edition,0,8.6,0.23,10,$125-300 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Kilkerran Work in Progress,0,8.59,0.34,15,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Longrow 10yo,10,8.59,0.41,13,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Tullibardine 20yo,20,8.59,0.29,5,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Westland Garryana,0,8.59,0.39,9,$125-300 CAD,SingleMalt-like,GH,G,USA,Malt
+Aultmore 18yo,18,8.58,0.18,6,$125-300 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Linkwood 12yo (F&F),12,8.58,0.33,7,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Mackmyra Preludium 03,0,8.58,0.85,5,$125-300 CAD,SingleMalt-like,GH,H,Sweden,Malt
+Mars Maltage Cosmo,0,8.56,0.23,5,$70-125 CAD,SingleMalt-like,GH,G,Japan,Malt
+Inchgower 14yo (F&F),14,8.55,0.53,8,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Nikka Miyagikyo NAS,0,8.55,0.23,8,$70-125 CAD,SingleMalt-like,GH,H,Japan,Malt
+Spirit of Hven Urania,0,8.55,0.47,3,>$300 CAD,SingleMalt-like,GH,H,Sweden,Malt
+BenRiach 10yo,0,8.54,0.16,12,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Arran Malt 10yo,10,8.53,0.27,23,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Ichiro's Malt Chichibu The Floor Malted,10,8.53,0.41,7,>$300 CAD,SingleMalt-like,GH,G,Japan,Malt
+GlenDronach 14yo Virgin Oak,14,8.52,0.37,11,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glen Breton 15yo Battle of the Glen,15,8.5,0.27,7,$125-300 CAD,SingleMalt-like,GH,G,Canada,Malt
+Aultmore 12yo,12,8.49,0.22,15,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Tomatin Cu Bocan Virgin Oak Edition,0,8.49,0.48,3,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Bruichladdich Classic Laddie Scottish Barley,0,8.48,0.34,14,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glencadam 15yo,15,8.48,0.39,14,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Glendalough 13yo Single Malt,13,8.48,0.31,9,$70-125 CAD,SingleMalt-like,GH,G,Ireland,Malt
+Mackmyra Special 07,0,8.48,0.53,7,$70-125 CAD,SingleMalt-like,GH,H,Sweden,Malt
+Balblair 2000,0,8.47,0.36,13,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Kavalan King Car Conductor,0,8.47,0.33,10,$70-125 CAD,SingleMalt-like,GH,G,Taiwan,Malt
+Sheep Dip Blended Malt,0,8.47,0.39,14,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+AnCnoc Peter Arkle (all releases),0,8.46,0.3,9,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Ichiro's Malt Chichibu The First,0,8.46,0.41,12,>$300 CAD,SingleMalt-like,GH,G,Japan,Malt
+Glen Grant 10yo (G&M),10,8.45,0.3,4,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Glencadam 10yo,10,8.45,0.44,13,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Knappogue Castle 12yo,12,8.45,0.4,13,$50-70 CAD,SingleMalt-like,GH,G,Ireland,Malt
+Macallan 12yo Fine Oak,12,8.45,0.37,17,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Yamazaki NAS,0,8.45,0.23,6,$70-125 CAD,SingleMalt-like,GH,G,Japan,Malt
+Benromach Traditional,0,8.44,0.43,13,$30-50 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glenmorangie 10yo,10,8.44,0.43,25,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+FEW Single Malt,0,8.43,0.53,6,$70-125 CAD,SingleMalt-like,GH,G,USA,Malt
+BenRiach 12yo,12,8.42,0.25,15,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Bruichladdich Laddie Eight 8yo,8,8.42,0.46,7,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Talisker Skye,0,8.42,0.29,12,$30-50 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Bruichladdich Laddie Classic (Edition 01),0,8.41,0.52,7,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Mackmyra The Swedish Whisky (Brukswhisky),0,8.41,0.55,11,$30-50 CAD,SingleMalt-like,GH,H,Sweden,Malt
+Kavalan Single Malt Whisky,0,8.4,0.49,18,$70-125 CAD,SingleMalt-like,GH,G,Taiwan,Malt
+Penderyn Myth,0,8.4,0.33,6,$50-70 CAD,SingleMalt-like,GH,G,Wales,Malt
+Stronachie 10yo,10,8.4,0.41,4,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Wemyss Malts The Hive,0,8.4,0.21,14,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glenkinchie Distiller's Edition (all editions),0,8.39,0.25,13,$70-125 CAD,SingleMalt-like,GH,B,Scotland,Malt
+Hakushu Distiller's Reserve,0,8.39,0.16,5,$70-125 CAD,SingleMalt-like,GH,H,Japan,Malt
+Craigellachie 13yo,13,8.38,0.56,16,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glen Garioch Founder's Reserve,0,8.38,0.35,19,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Hibiki Harmony,0,8.37,0.52,19,$70-125 CAD,SingleMalt-like,GH,G,Japan,Blend
+Strathmill 12yo,12,8.37,0.28,3,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Tomintoul 25yo,25,8.36,0.71,6,>$300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Hazelburn 8yo (Springbank),8,8.35,0.39,11,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Ichiro's Malt Mizunara Wood Reserve (MWR),0,8.35,0.52,13,$125-300 CAD,SingleMalt-like,GH,H,Japan,Malt
+Mackmyra Svensk Ek,0,8.35,0.23,4,$70-125 CAD,SingleMalt-like,GH,H,Sweden,Malt
+Tomatin Cask Strength,0,8.34,0.48,10,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glenglassaugh Octaves Classic,0,8.33,0.28,5,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Hakushu NAS,0,8.32,0.32,5,$50-70 CAD,SingleMalt-like,GH,H,Japan,Malt
+Mackmyra Special 02,0,8.32,0.71,3,$125-300 CAD,SingleMalt-like,GH,H,Sweden,Malt
+Mackinlay's Shackleton Blended Malt,0,8.31,0.44,6,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Amrut Indian Single Malt,0,8.3,0.82,18,$50-70 CAD,SingleMalt-like,GH,G,India,Malt
+Auchentoshan Valinch,0,8.3,0.61,14,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+BenRiach 20yo,20,8.3,0.7,11,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Hibiki Harmony Master's Select,0,8.29,0.65,7,$125-300 CAD,SingleMalt-like,GH,G,Japan,Blend
+Highland Park Svein,0,8.29,0.4,12,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Tamdhu 10yo,10,8.29,0.58,18,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Tomintoul 16yo,16,8.29,0.4,18,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Wolfburn (NAS),0,8.29,0.36,10,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Arran Malt Lochranza Reserve,0,8.28,0.22,5,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Bladnoch Vintage 1992-2007 (Signatory),0,8.27,0.44,4,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Box (High Coast) Quercus I Robur,0,8.27,0.41,3,$70-125 CAD,SingleMalt-like,GH,G,Sweden,Malt
+Glen Grant 12yo,12,8.27,0.52,9,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Mannochmore 12yo (F&F),12,8.27,0.14,4,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glen Grant 10yo,10,8.26,0.47,9,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Glenfiddich 1963 Original Malt,0,8.26,0.42,8,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glengoyne 10yo,10,8.26,0.3,14,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Tullibardine Vintage 1993,0,8.26,0.43,10,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+White Oak Akashi 5yo,5,8.26,0.55,9,$125-300 CAD,SingleMalt-like,GH,G,Japan,Malt
+Cardhu Amber Rock,0,8.25,0.29,4,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Glendalough 7yo Single Malt,7,8.25,0.3,7,$50-70 CAD,SingleMalt-like,GH,G,Ireland,Malt
+Nikka Taketsuru NAS,0,8.25,0.33,6,$70-125 CAD,SingleMalt-like,GH,G,Japan,Malt
+Teerenpeli 10yo,10,8.25,0.4,6,$125-300 CAD,SingleMalt-like,GH,H,Finland,Malt
+St George's Chapter 6 (unpeated),0,8.24,0.46,10,$50-70 CAD,SingleMalt-like,GH,G,England,Malt
+Bladnoch 1993-2009 (G&M),0,8.23,0.2,5,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Bushmills 10yo Single Malt,10,8.23,0.33,21,$50-70 CAD,SingleMalt-like,GH,G,Ireland,Malt
+Glen Breton Ice 10yo,10,8.23,0.59,8,$70-125 CAD,SingleMalt-like,GH,G,Canada,Malt
+Glenkinchie 12yo,12,8.23,0.24,17,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glenrothes Alba Reserve,0,8.23,0.43,9,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Highland Park Harald,0,8.22,0.45,13,$70-125 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Tyrconnell Single Malt Irish Whiskey,0,8.22,0.39,17,$30-50 CAD,SingleMalt-like,GH,H,Ireland,Malt
+Auchentoshan Virgin Oak,0,8.2,0.55,7,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Macallan Gold,0,8.2,0.29,17,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Stronachie 12yo,12,8.19,0.34,9,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Glenlossie 10yo (F&F),10,8.18,0.31,9,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+The Quiet Man 8yo Single Malt,8,8.18,0.5,5,$50-70 CAD,SingleMalt-like,GH,H,Ireland,Malt
+Tullibardine Sovereign,0,8.18,0.27,10,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Nikka Gold & Gold,0,8.17,0.27,8,$50-70 CAD,SingleMalt-like,GH,G,Japan,Malt
+Deanston Virgin Oak,0,8.15,0.43,15,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Glenglassaugh Evolution,0,8.15,0.3,9,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glenrothes Bourbon Cask Reserve,0,8.14,0.19,3,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Tormore 14yo,14,8.13,0.34,5,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Mackmyra Midnattssol,0,8.12,0.71,5,$70-125 CAD,SingleMalt-like,GH,H,Sweden,Malt
+Glenfiddich 12yo,12,8.1,0.22,26,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glenturret 10yo,10,8.1,0.49,13,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Knappogue Castle Vintage,0,8.1,0.79,5,$50-70 CAD,SingleMalt-like,GH,H,Ireland,Malt
+Speyburn 10yo,10,8.09,0.32,21,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Tomatin Legacy,0,8.09,0.43,11,$30-50 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Lohin McKinnon Single Malt,0,8.08,0.3,8,$50-70 CAD,SingleMalt-like,GH,H,Canada,Malt
+Cardhu 12yo,2,8.06,0.48,21,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Glen Breton 14yo,14,8.06,0.58,6,$70-125 CAD,SingleMalt-like,GH,G,Canada,Malt
+Glen Spey 12yo (F&F),12,8.06,0.44,5,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Tullibardine Aged Oak Edition,0,8.05,0.43,9,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glen Breton 10yo Rare,10,8.04,0.45,15,$70-125 CAD,SingleMalt-like,GH,G,Canada,Malt
+Glen Moray 12yo,12,8.04,0.28,14,$30-50 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Tomatin Cu Bocan,0,8.04,0.38,13,$70-125 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Glen Moray Classic,0,8.02,0.19,5,<$30 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Kilbeggan Irish Reserve Malt Whiskey,0,7.97,0.46,7,$30-50 CAD,SingleMalt-like,GH,G,Ireland,Malt
+Pig's Nose 5yo Blended Malt,5,7.97,0.36,4,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Auchentoshan Classic,0,7.96,0.4,9,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Bladnoch 16yo (Signatory),16,7.94,0.44,4,$125-300 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Knockando 12yo (All Vintages),12,7.92,0.43,12,$30-50 CAD,SingleMalt-like,GH,G,Scotland,Malt
+White Oak Akashi Single Malt (NAS),0,7.92,0.48,7,$70-125 CAD,SingleMalt-like,GH,G,Japan,Malt
+Tormore 12yo,12,7.91,0.38,9,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Glen Grant The Major's Reserve,0,7.89,0.59,11,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Speyside 12yo,12,7.86,0.63,10,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Tomintoul 10yo,10,7.82,0.51,16,$50-70 CAD,SingleMalt-like,GH,G,Scotland,Malt
+Auchentoshan 10yo,10,7.77,0.35,10,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Auchentoshan American Oak,0,7.75,0.87,8,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+BenRiach Heart of Speyside,0,7.72,0.88,7,$50-70 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Tamnavulin 12yo,12,7.7,0.79,4,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Loch Lomond,0,7.69,0.44,12,<$30 CAD,SingleMalt-like,GH,H,Scotland,Malt
+McClelland's Highland Single Malt,0,7.09,0.57,7,$30-50 CAD,SingleMalt-like,GH,G,Scotland,Malt
+McClelland's Lowland Single Malt,0,6.97,0.54,4,$30-50 CAD,SingleMalt-like,GH,H,Scotland,Malt
+Port Ellen 2nd release 24yo 59.35%,24,9.48,0.21,7,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 9th release 30yo,30,9.48,0.11,5,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 14th release 35yo,35,9.4,0.12,3,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 10th release 31yo,31,9.37,0.53,5,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 15th release 32yo,32,9.35,0.4,3,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 7th release 28yo,28,9.33,0.3,4,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 11th release 32yo,32,9.31,0.44,6,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Caol Ila 30yo,30,9.3,0.21,12,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Talisker 35yo,35,9.3,0.32,3,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen (all OB releases),0,9.28,0.3,19,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 3rd release 24yo,24,9.23,0.27,9,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 16th release 37yo,37,9.21,0.37,3,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 6th release 27yo,27,9.2,0.15,7,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 17th release 37yo,37,9.19,0.7,3,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 4th release 25yo,25,9.19,0.13,5,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Talisker 30yo,30,9.18,0.33,13,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Compass Box Flaming Heart 2018 6th Edition,0,9.17,0.21,5,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Talisker 18yo,18,9.14,0.21,20,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Springbank 16yo Local Barley,16,9.12,0.19,10,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Ledaig 42yo,42,9.11,0.46,3,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 12th release 32yo,32,9.07,0.48,10,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Springbank 11yo Local Barley,11,9.06,0.21,10,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Compass Box Flaming Heart 2008 2nd Edition,0,9.05,0.28,4,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Compass Box Flaming Heart 2015 5th Edition - 15th Anniversary,0,9.03,0.34,18,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Highland Park Sigurd,0,9.02,0.31,7,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Talisker 25yo,25,9,0.26,18,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Compass Box Flaming Heart (all editions),0,8.99,0.29,23,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Nikka Yoichi 15yo,15,8.98,0.21,16,$125-300 CAD,SingleMalt-like,I,I,Japan,Malt
+Oban 21yo,21,8.98,0.2,5,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glen Garioch 1994,0,8.96,0.37,8,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Kilkerran 8yo Cask Strength,8,8.96,0.2,6,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Ledaig 13yo Amontillado Cask Finish,13,8.96,0.27,5,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Talisker 8yo 2018 Special Release,8,8.96,0.36,5,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich Port Charlotte PC10 Tro Na Linntean,0,8.95,0.41,10,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glen Garioch 1995,0,8.95,0.31,11,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glen Garioch 1991,0,8.94,0.18,3,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Kilchoman Bourbon Single Cask,0,8.94,0.23,14,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Tomatin Cu Bocan 1989 Limited Edition,0,8.93,0.27,4,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Compass Box The Lost Blend,0,8.92,0.23,14,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen 8th release 29yo,29,8.92,0.44,8,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Springbank 18yo,18,8.92,0.2,21,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Talisker 57 North,0,8.92,0.21,19,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich Port Charlotte PC11 Eorna Na H-Alba,0,8.91,0.27,6,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Compass Box Flaming Heart 2012 4th Edition,0,8.91,0.3,16,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Talisker Distiller's Edition (all editions),0,8.91,0.23,24,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+BenRiach 21yo Authenticus Peated,21,8.89,0.33,15,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich Port Charlotte 10yo Heavily Peated (Second Edition),10,8.88,0.37,9,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Compass Box Flaming Heart 2010 3rd Edition - 10th Anniversary,0,8.88,0.31,10,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Ledaig 19yo Marsala Finish,19,8.88,0.27,5,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Wemyss Malts The Rockpool,0,8.88,0.27,3,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bladnoch 9yo Lightly Peated,9,8.87,0.58,4,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Caol Ila 25yo,25,8.87,0.2,12,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Kavalan Distillery Reserve Peaty Cask,0,8.86,0.31,4,>$300 CAD,SingleMalt-like,I,I,Taiwan,Malt
+Talisker 10yo,10,8.86,0.23,25,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bowmore Mizunara Cask Finish,0,8.85,0.43,3,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich Port Charlotte PC12 Oileanach Furachail,0,8.83,0.45,11,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Dun Bheagan Islay 2009,0,8.83,0.2,3,$30-50 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich Port Charlotte PC10 (Second Edition),0,8.81,0.2,6,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Port Ellen Douglas Laing McGibbon's Provenance John Milroy 23yo (all editions),23,8.8,0.29,6,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+BenRiach 25yo Authenticus Peated,25,8.78,0.47,11,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Hakushu Single Malt Heavily Peated,0,8.78,0.32,12,>$300 CAD,SingleMalt-like,I,I,Japan,Malt
+Bowmore 10yo Tempest,10,8.77,0.23,21,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich Port Charlotte 10yo Heavily Peated (First Edition),10,8.77,0.2,8,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich Infinity Third Edition,0,8.76,0.27,5,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glenlivet Nadurra Peated Cask Finish,0,8.76,0.25,4,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Highland Park 12yo (reviews pre-2014),12,8.76,0.27,20,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Springbank 12yo Green,12,8.76,0.29,8,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Caol Ila 18yo,18,8.75,0.5,18,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Nikka Pure Malt Black,0,8.75,0.24,16,$50-70 CAD,SingleMalt-like,I,I,Japan,Malt
+Nikka Yoichi 12yo,12,8.75,0.19,9,$125-300 CAD,SingleMalt-like,I,I,Japan,Malt
+Port Ellen 2nd release 24yo 54.3%,24,8.75,0.67,3,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich Port Charlotte Scottish Barley Heavily Peated,0,8.74,0.24,17,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Caol Ila 12yo,12,8.74,0.18,22,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Westland Peat Week,0,8.74,0.27,4,$70-125 CAD,SingleMalt-like,I,I,USA,Malt
+Oban 18yo,18,8.73,0.2,15,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Paul John Bold,0,8.73,0.22,6,$50-70 CAD,SingleMalt-like,I,I,India,Malt
+Paul John Peated Select Cask,0,8.73,0.27,9,$70-125 CAD,SingleMalt-like,I,I,India,Malt
+Big Peat (Douglas Laing),0,8.72,0.25,16,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich Port Charlotte An Turas Mor,0,8.72,0.25,12,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Springbank 10yo,10,8.72,0.26,22,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Highland Park 15yo Freya,15,8.71,0.37,14,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Spirit of Hven Tycho‰Ûªs Star,0,8.71,0.27,6,$70-125 CAD,SingleMalt-like,I,I,Sweden,Malt
+Highland Park 17yo Ice,17,8.7,0.28,10,>$300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Compass Box Lady Luck,0,8.69,0.42,6,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Nikka Pure Malt White,0,8.69,0.33,13,$50-70 CAD,SingleMalt-like,I,I,Japan,Malt
+Kilchoman Sanaig,0,8.68,0.25,16,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Benromach 10yo,10,8.67,0.26,23,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Kilchoman Coull Point,0,8.67,0.3,7,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Nikka Miyagikyo 15yo,15,8.67,0.27,13,$125-300 CAD,SingleMalt-like,I,I,Japan,Malt
+Balvenie 14yo Peat Week,14,8.66,0.17,10,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Dun Bheagan Islay (all vintage editions),0,8.65,0.17,7,$30-50 CAD,SingleMalt-like,I,I,Scotland,Malt
+Highland Park 12yo (all reviews),12,8.65,0.21,26,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Nikka Yoichi 10yo,10,8.65,0.28,18,$70-125 CAD,SingleMalt-like,I,I,Japan,Malt
+Glenglassaugh Torfa,0,8.64,0.33,7,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Talisker Dark Storm,0,8.64,0.18,13,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Highland Park 12yo Viking Honour (post-2017),12,8.63,0.15,7,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Kilchoman Sauternes Cask Matured,0,8.63,0.21,7,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bowmore 15yo Mariner,15,8.62,0.47,7,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Mackmyra Svensk RÌ¦k,0,8.62,0.21,5,$70-125 CAD,SingleMalt-like,I,I,Sweden,Malt
+BenRiach 10yo Curiositas,10,8.61,0.28,20,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bowmore Vault Edition First Release,0,8.61,0.28,13,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glenfiddich Fire & Cane Experimental Series No. 4,0,8.61,0.21,9,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Longrow 7yo Gaja Barolo Finish,7,8.6,0.5,8,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bowmore 17yo White Sands,17,8.59,0.31,7,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich Islay Barley (all vintages),0,8.59,0.15,14,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+"Elements of Islay ""Peat""",0,8.59,0.76,6,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Mars Kogamatake The Revival 2011,0,8.59,0.44,5,$125-300 CAD,SingleMalt-like,I,I,Japan,Malt
+Nikka Yoichi NAS,0,8.59,0.3,11,$70-125 CAD,SingleMalt-like,I,I,Japan,Malt
+Paul John Edited,0,8.58,0.39,9,$50-70 CAD,SingleMalt-like,I,I,India,Malt
+Talisker Storm,0,8.58,0.26,19,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+BenRiach Peated Quarter Casks,0,8.56,0.32,4,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Penderyn Celt,0,8.56,0.5,4,$50-70 CAD,SingleMalt-like,I,I,Wales,Malt
+Arran Malt Machrie Moor Cask Strength,0,8.55,0.64,7,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Nikka Miyagikyo 12yo,12,8.55,0.3,8,$70-125 CAD,SingleMalt-like,I,I,Japan,Malt
+Bowmore 18yo,18,8.54,0.41,22,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+GlenDronach Peated,0,8.54,0.3,11,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Box (High Coast) Early Days (batches 01/02),0,8.53,0.24,3,$70-125 CAD,SingleMalt-like,I,I,Sweden,Malt
+Spirit of Hven Seven Stars No. 2 Merak,0,8.52,0.35,4,$125-300 CAD,SingleMalt-like,I,I,Sweden,Malt
+Westland Peated,0,8.52,0.44,11,$70-125 CAD,SingleMalt-like,I,I,USA,Malt
+Ardmore Traditional Cask,0,8.51,0.21,22,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Compass Box Eleuthera,0,8.51,0.38,13,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glen Garioch 1997,0,8.51,0.17,6,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Highland Park 10yo,10,8.51,0.25,15,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Nikka Miyagikyo 10yo,10,8.51,0.29,8,$70-125 CAD,SingleMalt-like,I,I,Japan,Malt
+Oban 14yo,14,8.5,0.38,23,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Teerenpeli Suomi 100 Juhlaviski,0,8.5,0.56,3,$70-125 CAD,SingleMalt-like,I,I,Finland,Malt
+Spirit of Hven Seven Stars No. 3 Phecda,0,8.49,0.36,3,$125-300 CAD,SingleMalt-like,I,I,Sweden,Malt
+Glenfiddich Vintage Cask,0,8.48,0.26,6,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Box (High Coast) Dalvve,0,8.47,0.28,10,$70-125 CAD,SingleMalt-like,I,I,Sweden,Malt
+Fettercairn Fior,0,8.47,0.26,6,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Dun Bheagan Islay 1999,0,8.43,0.24,3,$30-50 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glen Moray Classic Peated,0,8.42,0.29,5,$30-50 CAD,SingleMalt-like,I,I,Scotland,Malt
+Ledaig 10yo,10,8.42,0.38,23,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Highland Park 12yo (reviews 2014-2017),12,8.41,0.42,15,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bowmore 17yo,17,8.4,0.64,8,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glenglassaugh Octaves Peated,0,8.39,0.5,3,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Wemyss Malts Peat Chimney,0,8.39,0.41,14,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Benromach Sassicaia,0,8.38,0.15,7,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bowmore 12yo,12,8.38,0.28,20,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bowmore No.1,0,8.37,0.3,6,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Oban Little Bay,0,8.37,0.35,15,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bowmore Gold Reef,0,8.34,0.32,11,$30-50 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glen Scotia 12yo,12,8.28,0.55,9,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Penderyn Peated,0,8.28,0.58,9,$70-125 CAD,SingleMalt-like,I,I,Wales,Malt
+Jura Superstition,0,8.27,0.45,23,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+BenRiach Birnie Moss,0,8.26,0.33,11,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Spirit of Hven Seven Stars No. 1 Dubhe,0,8.26,0.41,3,$125-300 CAD,SingleMalt-like,I,I,Sweden,Malt
+Springbank CV,0,8.26,0.37,8,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Old Ballantruan Peated (Toumintoul),0,8.24,0.42,9,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bowmore Small Batch,0,8.22,0.51,13,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bruichladdich 8yo Laddie Eight,8,8.21,0.64,4,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Connemara Peated Single Malt,0,8.21,0.25,17,$50-70 CAD,SingleMalt-like,I,I,Ireland,Malt
+St George's Chapter 9 (peated),0,8.2,0.46,5,$50-70 CAD,SingleMalt-like,I,I,England,Malt
+Highland Park Einar,0,8.18,0.4,9,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glenrothes Peated Cask Reserve,0,8.09,0.57,3,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Jura 10yo Origin,10,8.05,0.34,18,$50-70 CAD,SingleMalt-like,I,I,Scotland,Malt
+Arran Malt Machrie Moor Peated (all editions),0,8.01,0.56,14,$70-125 CAD,SingleMalt-like,I,I,Scotland,Malt
+Glenfiddich 12yo Caoran Reserve,12,7.83,0.51,8,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Bowmore Legend,0,7.67,0.56,10,$30-50 CAD,SingleMalt-like,I,I,Scotland,Malt
+Longrow 10yo Tokaji Finish,10,7.46,1.07,6,$125-300 CAD,SingleMalt-like,I,I,Scotland,Malt
+Brora 35yo,35,9.42,0.31,12,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Brora 30yo,30,9.34,0.25,18,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg 23yo Twenty Something,23,9.28,0.17,6,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg Uigeadail,0,9.17,0.39,24,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 9.3,0,9.17,0.1,6,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Lagavulin 16yo,16,9.17,0.27,28,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig 21yo,21,9.17,0.28,10,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg 21yo,21,9.13,0.27,11,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig Cairdeas 2015,0,9.12,0.24,11,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Lagavulin 12yo Cask Strength,12,9.11,0.16,23,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Amrut Peated Single Malt Cask Strength,0,9.08,0.28,13,$70-125 CAD,SingleMalt-like,J,J,India,Malt
+Kilchoman Original Cask Strength,0,9.08,0.23,8,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg Supernova 2014,0,9.07,0.31,15,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 6.2,0,9.07,0.19,10,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 8.3,0,9.06,0.15,10,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Compass Box No Name,0,9.06,0.16,10,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 8.2,0,9.05,0.19,5,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg Corryvreckan,0,9.04,0.32,23,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 7.3,0,9.03,0.52,10,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Lagavulin Distiller's Edition (All Vintages),0,9.03,0.23,24,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg Alligator,0,9.02,0.18,15,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg Ardbog,0,9.02,0.44,20,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Longrow 18yo,18,9.01,0.31,12,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 10 (Second Edition),0,9,0.22,11,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Kilchoman 2008 Vintage,0,9,0.18,6,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig 18yo,18,9,0.27,21,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg Supernova 2015,0,8.99,0.32,7,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Compass Box Peat Monster 2014 - 10th Anniversary,0,8.99,0.3,11,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 7.1,0,8.98,0.27,14,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+AnCnoc Cutter,0,8.97,0.47,9,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Kilchoman 2009 Vintage,0,8.96,0.11,4,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig 10yo Cask Strength (all batches),10,8.96,0.33,21,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg 17yo,17,8.95,0.32,8,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ichiro's Malt Chichibu The Peated,0,8.95,0.35,11,>$300 CAD,SingleMalt-like,J,J,Japan,Malt
+Amrut Portpipe Peated Single Cask #2712 (2013),0,8.94,0.1,3,$70-125 CAD,SingleMalt-like,J,J,India,Malt
+Kilchoman 2007 Vintage,0,8.94,0.29,9,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig Cairdeas 2014 Amontillado,0,8.94,0.21,11,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Smogen Single Cask 4yo 7/2011,4,8.93,0.22,4,$125-300 CAD,SingleMalt-like,J,J,Sweden,Malt
+Box (High Coast) The Festival 2014,0,8.92,0.12,3,$125-300 CAD,SingleMalt-like,J,J,Sweden,Malt
+Compass Box Peat Monster 2008 Reserve Edition,0,8.91,0.18,3,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg 10yo,10,8.89,0.35,25,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Amrut 100 Peated,0,8.88,0.33,7,$70-125 CAD,SingleMalt-like,J,J,India,Malt
+Bruichladdich Octomore 10,0,8.88,0.38,5,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Lagavulin 8yo,8,8.88,0.24,21,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+AnCnoc Rutter,0,8.87,0.3,8,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 8.1,0,8.87,0.14,12,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Smogen Single Cask (all editions),0,8.87,0.14,5,$125-300 CAD,SingleMalt-like,J,J,Sweden,Malt
+Ardbeg Dark Cove,0,8.86,0.31,18,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Brora 21yo,21,8.86,0.41,4,>$300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Compass Box Monster 2004,0,8.85,0.35,3,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig 10yo,10,8.85,0.26,25,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg Grooves,0,8.84,0.2,12,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 7.2,0,8.84,0.47,10,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig An Cuan Mor,0,8.84,0.17,14,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig Cairdeas 2016 Madeira,0,8.84,0.41,13,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg Auriverdes,0,8.83,0.37,19,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig Cairdeas 2018 Fino,0,8.83,0.24,6,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg An Oa,0,8.82,0.27,14,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Wemyss Malts Kiln Embers,0,8.82,0.16,4,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Compass Box Peat Monster 2015 Cask Strength,0,8.81,0.29,6,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Longrow CV,0,8.81,0.33,17,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg Kelpie,0,8.8,0.14,10,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ardbeg Perpetuum,0,8.8,0.43,17,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig 15yo (200th Anniversary),15,8.8,0.31,17,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+BenRiach 18yo Dunder,18,8.79,0.29,5,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Big Peat Christmas Edition (2012-2016),0,8.79,0.12,12,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 6.3,0,8.79,0.64,10,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bunnahabhain CeÌ_banach,0,8.79,0.28,14,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Longrow Peated,0,8.78,0.18,16,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Port Charlotte Islay Barley Heavily Peated,0,8.77,0.21,6,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Kilchoman Machir Bay (all vintages),0,8.77,0.22,23,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 6.1,0,8.76,0.29,16,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Connemara Turf Mor,0,8.74,0.45,11,$70-125 CAD,SingleMalt-like,J,J,Ireland,Malt
+Amrut Portpipe Peated Single Cask #2713 (2013),0,8.73,0.15,4,$70-125 CAD,SingleMalt-like,J,J,India,Malt
+Compass Box Peat Monster (all editions),0,8.72,0.26,22,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Kilchoman Spring 2011 Release,0,8.72,0.23,8,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Kilchoman 100% Islay (all editions),0,8.71,0.23,19,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Amrut Portpipe Peated Single Cask (all casks),0,8.7,0.43,14,$70-125 CAD,SingleMalt-like,J,J,India,Malt
+Compass Box Peat Monster 2015,0,8.7,0.18,4,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Octomore 9.1,0,8.69,0.39,5,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Compass Box Peat Monster 2005,0,8.69,0.09,4,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig Triple Wood,0,8.69,0.34,20,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Amrut Peated Single Malt,0,8.68,0.29,14,$70-125 CAD,SingleMalt-like,J,J,India,Malt
+Caol Ila Distiller's Edition (all editions),0,8.68,0.34,16,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig Cairdeas 2017,0,8.67,0.27,9,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Smogen Single Cask 4yo 20/2011,4,8.67,0.25,3,$125-300 CAD,SingleMalt-like,J,J,Sweden,Malt
+Compass Box Peat Monster 2012,0,8.65,0.33,11,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ileach Peated Islay Cask Strength,0,8.65,0.42,13,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Jura Prophecy,0,8.65,0.31,18,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig Lore,0,8.62,0.3,17,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+Amrut Portpipe Peated Single Cask #2712 (2016),0,8.61,0.55,5,$70-125 CAD,SingleMalt-like,J,J,India,Malt
+Bruichladdich Octomore 7.4,0,8.59,0.65,9,$125-300 CAD,SingleMalt-like,J,J,Scotland,Malt
+AnCnoc Flaughter,0,8.57,0.32,11,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bunnahabhain Toiteach,0,8.56,0.36,16,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+BenRiach 17yo Septendecim Peated,17,8.54,0.53,18,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Kilchoman Winter 2010 Release,0,8.51,0.15,4,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bruichladdich Port Charlotte The Peat Project,0,8.49,0.39,7,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Compass Box Peat Monster 2010,0,8.46,0.84,3,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Finlaggan Old Reserve,0,8.45,0.5,15,$30-50 CAD,SingleMalt-like,J,J,Scotland,Malt
+Benromach Peat Smoke,0,8.43,0.27,15,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Ileach Peated Islay,0,8.37,0.33,8,$30-50 CAD,SingleMalt-like,J,J,Scotland,Malt
+Bunnahabhain Cruach Mhona,0,8.34,0.38,8,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig Quarter Cask,0,8.31,0.27,24,$70-125 CAD,SingleMalt-like,J,J,Scotland,Malt
+Santis Edition Dreifaltigkeit,0,8.02,1.23,7,$70-125 CAD,SingleMalt-like,J,J,Switzerland,Malt
+Tomintoul Peaty Tang,0,7.86,0.66,12,$30-50 CAD,SingleMalt-like,J,J,Scotland,Malt
+McClelland's Islay Single Malt,0,7.83,0.67,9,$30-50 CAD,SingleMalt-like,J,J,Scotland,Malt
+Laphroaig QA Cask,0,7.27,0.51,11,$50-70 CAD,SingleMalt-like,J,J,Scotland,Malt
+Santis Edition Dreifaltigkeit / Cask Strength Peated,0,7.2,1.74,12,$70-125 CAD,SingleMalt-like,J,J,Switzerland,Malt
+Santis Cask Strength Peated,0,6.44,1.89,6,$70-125 CAD,SingleMalt-like,J,J,Switzerland,Malt
+Compass Box The General,0,9.18,0.26,11,>$300 CAD,Scotch-like,,,Scotland,Blend
+Black Bull 40yo,40,9.1,0.35,12,>$300 CAD,Scotch-like,,,Scotland,Blend
+Compass Box Hedonism Quindecimus,0,9,0.43,8,$125-300 CAD,Scotch-like,,,Scotland,Blend
+Compass Box The Circus,0,8.91,0.25,8,$125-300 CAD,Scotch-like,,,Scotland,Blend
+Chivas Regal Ultis,0,8.88,0.45,7,$125-300 CAD,Scotch-like,,,Scotland,Blend
+Powers 12yo John's Lane,12,8.81,0.38,17,$70-125 CAD,Scotch-like,,,Ireland,Blend
+Yellow Spot 12yo,12,8.78,0.23,18,$70-125 CAD,Scotch-like,,,Ireland,Blend
+Ballantine's 17yo,17,8.76,0.31,15,$70-125 CAD,Scotch-like,,,Scotland,Blend
+High West Campfire,0,8.74,0.29,15,$70-125 CAD,Scotch-like,,,USA,Blend
+Chivas Regal 25yo,25,8.73,0.24,8,>$300 CAD,Scotch-like,,,Scotland,Blend
+The Irishman Cask Strength,0,8.71,0.26,5,$125-300 CAD,Scotch-like,,,Ireland,Blend
+Grant's 18yo,18,8.67,0.31,6,$50-70 CAD,Scotch-like,,,Scotland,Blend
+Jameson 18yo Limited Reserve,18,8.65,0.28,11,$125-300 CAD,Scotch-like,,,Ireland,Blend
+Whyte & Mackay 30yo,30,8.65,0.2,4,>$300 CAD,Scotch-like,,,Scotland,Blend
+Buchanan's 18yo Special Reserve Blended,18,8.63,0.33,6,$50-70 CAD,Scotch-like,,,Scotland,Blend
+Hankey Bannister Heritage,0,8.63,0.33,5,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Johnnie Walker Blue Label,0,8.61,0.45,18,$125-300 CAD,Scotch-like,,,Scotland,Blend
+Powers 12yo Reserve,12,8.61,0.24,6,$50-70 CAD,Scotch-like,,,Ireland,Blend
+Black Bull 12yo,12,8.6,0.32,11,$50-70 CAD,Scotch-like,,,Scotland,Blend
+Buchanan's Red Seal Blended,0,8.58,0.37,4,$125-300 CAD,Scotch-like,,,Scotland,Blend
+Hankey Bannister 12yo Regency,12,8.58,0.21,7,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Ichiro's Malt & Grain World Blended,0,8.56,0.28,4,$70-125 CAD,Scotch-like,,,Japan,Blend
+Compass Box Great King St Artist's Blend,0,8.55,0.36,23,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Johnnie Walker 15yo Green Label,15,8.55,0.35,22,$70-125 CAD,Scotch-like,,,Scotland,Blend
+Hankey Bannister 21yo Partner's Reserve,21,8.54,0.44,5,$70-125 CAD,Scotch-like,,,Scotland,Blend
+Nikka 12yo Premium Blended,12,8.54,0.16,6,$70-125 CAD,Scotch-like,,,Japan,Blend
+Chivas Royal Salute 21yo,21,8.53,0.63,8,$125-300 CAD,Scotch-like,,,Scotland,Blend
+Jameson Round Irish Whiskey,0,8.53,0.36,3,$70-125 CAD,Scotch-like,,,Ireland,Blend
+Powers Signature Release,0,8.53,0.48,8,$50-70 CAD,Scotch-like,,,Ireland,Blend
+Teeling Single Grain (Wine Cask Finish),0,8.53,0.29,12,$50-70 CAD,Scotch-like,,,Ireland,Grain
+Writers Tears Pot Still Irish Whiskey,0,8.49,0.31,20,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Compass Box Great King St Glasgow Blend,0,8.48,0.22,16,$50-70 CAD,Scotch-like,,,Scotland,Blend
+Famous Grouse Gold Reserve 12yo,12,8.47,0.29,11,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Jameson Cooper's Croze Irish Whiskey,0,8.47,0.3,8,$70-125 CAD,Scotch-like,,,Ireland,Blend
+Johnnie Walker Explorer‰Ûªs Club The Gold Route,0,8.47,0.34,8,$70-125 CAD,Scotch-like,,,Scotland,Blend
+Nikka Coffey Grain,0,8.47,0.51,18,$70-125 CAD,Scotch-like,,,Japan,Grain
+Compass Box Delilah's,0,8.46,0.3,8,$70-125 CAD,Scotch-like,,,Scotland,Blend
+Cutty Sark Prohibition,0,8.46,0.45,15,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Grant's 12yo,12,8.46,0.42,5,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Jameson Gold Reserve,0,8.46,0.38,10,$70-125 CAD,Scotch-like,,,Ireland,Blend
+Jameson Blender's Dog Irish Whiskey,0,8.45,0.36,6,$70-125 CAD,Scotch-like,,,Ireland,Blend
+Compass Box Hedonism,0,8.44,0.58,20,$70-125 CAD,Scotch-like,,,Scotland,Blend
+Johnnie Walker Platinum Label,0,8.44,0.42,18,$70-125 CAD,Scotch-like,,,Scotland,Blend
+TÌ© Bheag,0,8.44,0.31,15,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Three Ships 10yo,10,8.43,0.38,10,$70-125 CAD,Scotch-like,,,South Africa,Blend
+Johnnie Walker Double Black,0,8.42,0.38,15,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Kirin 50% Blend (Fuji Gotemba),0,8.42,0.42,3,$70-125 CAD,Scotch-like,,,Japan,Blend
+Blandnoch Pure Scot,0,8.41,0.43,6,$50-70 CAD,Scotch-like,,,Scotland,Blend
+Jameson Select Reserve (Black Barrel),0,8.39,0.38,18,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Johnnie Walker 10yo Rye Cask Finish,10,8.39,0.43,6,$50-70 CAD,Scotch-like,,,Scotland,Blend
+Bushmills Red Bush,0,8.37,0.3,7,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Jameson 12yo Special Reserve,12,8.37,0.25,11,$70-125 CAD,Scotch-like,,,Ireland,Blend
+Jameson Signature Reserve,0,8.37,0.32,5,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Buchanan's Master Blended,0,8.36,0.35,6,$50-70 CAD,Scotch-like,,,Scotland,Blend
+Johnnie Walker Explorer‰Ûªs Club The Spice Road,0,8.36,0.53,9,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Johnnie Walker Explorer‰Ûªs Club The Royal Route,0,8.34,0.3,8,$125-300 CAD,Scotch-like,,,Scotland,Blend
+The Irishman Founder‰Ûªs Reserve,0,8.34,0.33,9,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Powers Three Swallow,0,8.33,0.26,3,$50-70 CAD,Scotch-like,,,Ireland,Blend
+Suntory Old Whisky,0,8.33,0.25,8,$50-70 CAD,Scotch-like,,,Japan,Blend
+Johnnie Walker Gold Label Reserve,0,8.28,0.31,18,$70-125 CAD,Scotch-like,,,Scotland,Blend
+Glendalough Double Barrel,0,8.27,0.35,8,$30-50 CAD,Scotch-like,,,Ireland,Grain
+Jameson Bold Irish Whiskey,0,8.27,0.4,4,$70-125 CAD,Scotch-like,,,Ireland,Blend
+Johnnie Walker 12yo Black Label,12,8.25,0.47,24,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Jameson Distiller's Safe Irish Whiskey,0,8.24,0.54,7,$70-125 CAD,Scotch-like,,,Ireland,Blend
+Suntory The Chita Single Grain,0,8.23,0.42,8,$50-70 CAD,Scotch-like,,,Japan,Blend
+Chivas Regal 18yo,18,8.22,0.46,15,$70-125 CAD,Scotch-like,,,Scotland,Blend
+Compass Box Asyla,0,8.22,0.43,15,$50-70 CAD,Scotch-like,,,Scotland,Blend
+Jameson Crested Irish Whiskey,0,8.2,0.39,4,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Suntory Toki,0,8.18,0.42,11,$50-70 CAD,Scotch-like,,,Japan,Blend
+Black Bottle (pre-2013),0,8.17,0.5,15,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Jameson Caskmates Stout Edition,0,8.15,0.49,10,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Bain's Cape Mountain Whisky,0,8.13,0.48,10,$30-50 CAD,Scotch-like,,,South Africa,Grain
+Kilbeggan 8yo Single Grain (Greenore),8,8.13,0.39,12,$30-50 CAD,Scotch-like,,,Ireland,Grain
+Famous Jubilee,0,8.12,0.17,3,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Teeling Poitin,0,8.12,0.24,5,$30-50 CAD,Scotch-like,,,Ireland,Blend
+The Irishman Original Clan Irish Whiskey,0,8.12,0.25,4,$30-50 CAD,Scotch-like,,,Ireland,Blend
+West Cork Original Bourbon Cask,0,8.12,0.37,6,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Bank Note 5yo Blended Scotch,5,8.1,0.65,5,<$30 CAD,Scotch-like,,,Scotland,Blend
+Buchanan's 12yo Deluxe Blended,12,8.07,0.34,10,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Tullamore Dew Special Reserve 12yo,12,8.05,0.3,10,$50-70 CAD,Scotch-like,,,Ireland,Blend
+Yamazakura 16yo Blended Whisky,16,8.05,0.58,3,$125-300 CAD,Scotch-like,,,Japan,Blend
+Cutty Sark Storm,0,8.04,0.48,8,<$30 CAD,Scotch-like,,,Scotland,Blend
+Whyte & Mackay 13yo,13,8.04,0.54,5,$70-125 CAD,Scotch-like,,,Scotland,Blend
+Powers Gold Label,0,8.03,0.4,13,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Three Ships 5yo,5,8.03,0.5,9,<$30 CAD,Scotch-like,,,South Africa,Blend
+2 Gingers Irish Whiskey,0,8.02,0.34,3,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Black Bottle (after 2013 re-launch),0,8.02,0.43,14,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Catto's Rare Old,0,8,0.69,5,<$30 CAD,Scotch-like,,,Scotland,Blend
+Kakubin Yellow Label (Suntory Whisky),0,8,0.83,5,$30-50 CAD,Scotch-like,,,Japan,Blend
+Grant's Blended Sherry Cask,0,7.99,0.2,6,<$30 CAD,Scotch-like,,,Scotland,Blend
+Catto's 12yo,12,7.98,0.18,5,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Famous Grouse Smoky Black (Black Grouse),0,7.95,0.45,21,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Dewar's 12yo,12,7.94,0.36,14,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Johnnie Walker White Walker (Game of Thrones),0,7.92,0.77,6,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Islay Mist 8yo,8,7.89,0.48,9,<$30 CAD,Scotch-like,,,Scotland,Blend
+John Barr Reserve (Black Label),0,7.89,0.46,6,<$30 CAD,Scotch-like,,,Scotland,Blend
+Jameson Lively Irish Whiskey,0,7.87,0.42,3,$70-125 CAD,Scotch-like,,,Ireland,Blend
+Grand Macnish,0,7.86,0.45,8,<$30 CAD,Scotch-like,,,Scotland,Blend
+Hankey Bannister Original,0,7.86,0.32,6,<$30 CAD,Scotch-like,,,Scotland,Blend
+Johnnie Walker Explorer‰Ûªs Club The Adventurer,0,7.86,0.11,3,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Teacher's Highland Cream,0,7.86,0.74,12,<$30 CAD,Scotch-like,,,Scotland,Blend
+Tullamore Dew Original Blended,0,7.86,0.4,20,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Highland Queen,0,7.85,0.48,3,<$30 CAD,Scotch-like,,,,
+Jameson Irish Whiskey,0,7.81,0.42,21,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Chivas Regal 12yo,12,7.78,0.44,23,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Compass Box Orangerie,0,7.77,0.93,9,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Bushmills Original Blended,0,7.7,0.47,18,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Grant's Family Reserve Blended,0,7.7,0.65,14,<$30 CAD,Scotch-like,,,Scotland,Blend
+The Quiet Man Traditional Irish Whiskey,0,7.67,1.06,8,$30-50 CAD,Scotch-like,,,Ireland,Blend
+Famous Grouse,0,7.65,0.57,21,<$30 CAD,Scotch-like,,,Scotland,Blend
+Whyte & Mackay Special Blended,0,7.65,0.4,7,<$30 CAD,Scotch-like,,,Scotland,Blend
+Mackmyra Vit Hund,0,7.62,0.56,3,$50-70 CAD,Scotch-like,,,Sweden,Malt
+Ballantine's Finest,0,7.6,0.61,12,<$30 CAD,Scotch-like,,,Scotland,Blend
+White Oak Akashi Blended,0,7.6,0.71,9,$50-70 CAD,Scotch-like,,,Japan,Blend
+Dewar's White Label,0,7.59,0.7,16,$30-50 CAD,Scotch-like,,,Scotland,Blend
+Bell's Original Scotch Whisky,0,7.56,0.69,8,<$30 CAD,Scotch-like,,,Scotland,Blend
+Cutty Sark,0,7.52,0.46,15,<$30 CAD,Scotch-like,,,Scotland,Blend
+Johnnie Walker Red Label,0,7.41,0.62,23,<$30 CAD,Scotch-like,,,Scotland,Blend
+P&M Blended Whisky,0,7.31,1.08,5,<$30 CAD,Scotch-like,,,France,Blend
+Passport Blended Scotch,0,7.29,1.07,8,<$30 CAD,Scotch-like,,,Scotland,Blend
+Whyte & Mackay Blended Triple Matured,0,7.29,0.87,3,<$30 CAD,Scotch-like,,,Scotland,Blend
+J&B Rare,0,6.94,1.12,13,<$30 CAD,Scotch-like,,,Scotland,Blend
+Yamazakura Blended Whisky,0,6.66,1.08,3,$50-70 CAD,Scotch-like,,,Japan,Blend
+Booker's Rye,0,9.27,0.25,10,>$300 CAD,Rye-like,,R4,USA,Rye
+Lot 40 Cask Strength 11 Year Old (2018),11,9.18,0.16,8,$70-125 CAD,Rye-like,,,Canada,Rye
+Canadian Club 41yo Chronicles No. 1,41,9.16,0.23,5,$125-300 CAD,Rye-like,,,Canada,Blend
+Lot 40 Cask Strength (Single Cask),0,9.16,0.1,7,$70-125 CAD,Rye-like,,,Canada,Rye
+High West Rocky Mountain Rye 21yo,21,9.15,0.24,9,>$300 CAD,Rye-like,,R4,USA,Rye
+Thomas H. Handy Sazerac,0,9.14,0.23,18,>$300 CAD,Rye-like,,R4,USA,Rye
+High West Rocky Mountain Rye 16yo,16,9.11,0.32,6,$125-300 CAD,Rye-like,,R4,USA,Rye
+J.P. Wiser‰Ûªs 35yo (2018),35,9.08,0.21,5,$125-300 CAD,Rye-like,,,Canada,Rye
+Lot 40 Cask Strength 12 Year Old (2017),12,9.08,0.26,13,$70-125 CAD,Rye-like,,,Canada,Rye
+Smooth Ambler Old Scout Single Barrel Rye,0,9.07,0.18,3,$70-125 CAD,Rye-like,,R4,USA,Rye
+High West Midwinter Night‰Ûªs Dram Rye,0,9.04,0.14,14,$125-300 CAD,Rye-like,,R4,USA,Rye
+J.P. Wiser‰Ûªs 35yo (2017),35,9.03,0.43,13,$125-300 CAD,Rye-like,,,Canada,Rye
+Van Winkle Family Reserve Rye 13yo,13,9.03,0.45,10,>$300 CAD,Rye-like,,R4,USA,Rye
+J.P. Wiser's Dissertation,0,9.01,0.27,11,$50-70 CAD,Rye-like,,,Canada,Blend
+Canadian Club 30yo,30,8.98,0.18,6,$125-300 CAD,Rye-like,,,Canada,Blend
+Canadian Rockies 21yo (46%),21,8.97,0.33,8,$70-125 CAD,Rye-like,,,Canada,Blend
+Canadian Club 40yo,40,8.96,0.42,12,$125-300 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser's Legacy,0,8.96,0.37,16,$30-50 CAD,Rye-like,,,Canada,Blend
+Gibson's Finest Rare 18yo,18,8.94,0.3,10,$70-125 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser's Alumni Series Wendel Clark 11yo 100% Rye,0,8.94,0.07,3,$30-50 CAD,Rye-like,,,Canada,Rye
+Michter's Barrel Strength Rye,0,8.92,0.15,6,$70-125 CAD,Rye-like,,R4,USA,Rye
+Sazerac 18yo,18,8.92,0.29,16,>$300 CAD,Rye-like,,R4,USA,Rye
+High West Rendezvous Rye,0,8.91,0.28,18,$70-125 CAD,Rye-like,,R4,USA,Rye
+Willett Family Estate 6yo Rye,6,8.9,0.24,5,$70-125 CAD,Rye-like,,R4,USA,Rye
+Forty Creek Unity,0,8.89,0.27,3,$50-70 CAD,Rye-like,,,Canada,Blend
+Willett Family Estate 4yo Rye,4,8.87,0.5,8,$50-70 CAD,Rye-like,,R4,USA,Rye
+Willett Family Estate 7yo Rye,7,8.87,0.21,6,$70-125 CAD,Rye-like,,R4,USA,Rye
+Amrut Rye,0,8.86,0.28,8,$70-125 CAD,Rye-like,,,India,Rye
+J.P. Wiser's Union 52,0,8.86,0.36,10,$50-70 CAD,Rye-like,,,Canada,Blend
+Lot 40,0,8.86,0.33,22,$30-50 CAD,Rye-like,,,Canada,Rye
+Michter's 10yo Single Barrel Rye,10,8.85,0.24,8,>$300 CAD,Rye-like,,R4,USA,Rye
+Masterson's Straight Rye 10yo,10,8.84,0.38,17,$70-125 CAD,Rye-like,,,Canada,Rye
+Whistlepig The Boss Hog,0,8.84,0.28,11,$125-300 CAD,Rye-like,,,Canada,Blend
+"Forty Creek Confederation Oak (Batch A, B)",0,8.82,0.43,17,$50-70 CAD,Rye-like,,,Canada,Blend
+Gooderham & Worts Eleven Souls Four Grain (2018),0,8.78,0.33,9,$70-125 CAD,Rye-like,,,Canada,Blend
+High West Double Rye Manhattan Barrel,0,8.78,0.32,6,$50-70 CAD,Rye-like,,R4,USA,Rye
+Pikesville Straight Rye,0,8.78,0.37,18,$70-125 CAD,Rye-like,,R4,USA,Rye
+Willett Family Estate 25yo Rye,25,8.78,0.49,3,>$300 CAD,Rye-like,,R4,USA,Rye
+J.P. Wiser‰Ûªs Red Letter,0,8.77,0.36,13,$70-125 CAD,Rye-like,,,Canada,Blend
+Whistlepig 10yo,10,8.77,0.42,17,$70-125 CAD,Rye-like,,,Canada,Blend
+High West Bourye,0,8.76,0.36,10,$70-125 CAD,Rye-like,,R4,USA,Blend
+Crown Royal Hand Selected Barrel,0,8.75,0.26,12,$50-70 CAD,Rye-like,,,Canada,Blend
+Forty Creek Heart of Gold,0,8.75,0.37,10,$70-125 CAD,Rye-like,,,Canada,Blend
+Forty Creek Port Wood Reserve 2011/2012,0,8.75,0.25,11,$70-125 CAD,Rye-like,,,Canada,Blend
+Willett Family Estate Rye (all ages),0,8.74,0.28,16,$70-125 CAD,Rye-like,,R4,USA,Rye
+Forty Creek Confederation Oak (All Batches),0,8.73,0.38,20,$50-70 CAD,Rye-like,,,Canada,Blend
+High West Double Rye,0,8.73,0.31,18,$30-50 CAD,Rye-like,,R4,USA,Rye
+Highwood Ninety Rye 20yo,20,8.73,0.31,12,$30-50 CAD,Rye-like,,,Canada,Blend
+Jack Daniel's Single Barrel Rye,0,8.72,0.22,7,$50-70 CAD,Rye-like,,R4,USA,Rye
+Gooderham & Worts 17yo Little Trinity Three Grain (2017),17,8.71,0.31,11,$70-125 CAD,Rye-like,,,Canada,Blend
+"Forty Creek Confederation Oak (Batch C, D)",0,8.7,0.42,4,$50-70 CAD,Rye-like,,,Canada,Blend
+Millstone 100 Rye,0,8.7,0.31,9,$70-125 CAD,Rye-like,,,Netherlands,Rye
+Century Reserve 21yo,21,8.69,0.2,11,$30-50 CAD,Rye-like,,,Canada,Blend
+Russell's Reserve 6yo Rye,6,8.69,0.29,7,$50-70 CAD,Rye-like,,R4,USA,Rye
+Willett Family Estate 3yo Rye,3,8.69,0.43,9,$50-70 CAD,Rye-like,,R4,USA,Rye
+Colonel E.H. Taylor Straight Rye,0,8.68,0.24,10,$70-125 CAD,Rye-like,,R4,USA,Rye
+Forty Creek Double Barrel Reserve,0,8.68,0.41,12,$50-70 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser's Seasoned Oak 19yo,19,8.68,0.42,11,$70-125 CAD,Rye-like,,,Canada,Blend
+Willett Family Estate 5yo Rye,5,8.67,0.38,5,$70-125 CAD,Rye-like,,R4,USA,Rye
+Angel‰Ûªs Envy Rye (Rum-finished),0,8.66,0.52,10,$70-125 CAD,Rye-like,,R4,USA,Rye
+Crown Royal Noble Collection Wine Barrel Finished,0,8.66,0.48,8,$50-70 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser‰Ûªs Canada 2018,0,8.65,0.34,5,$30-50 CAD,Rye-like,,,Canada,Rye
+Pike Creek 21yo Double Barrel Speyside Cask Finish (2017),21,8.65,0.34,10,$70-125 CAD,Rye-like,,,Canada,Blend
+FEW Rye Whisky,0,8.64,0.55,7,$70-125 CAD,Rye-like,,R4,USA,Rye
+Forty Creek Copper Pot Reserve,0,8.62,0.41,15,<$30 CAD,Rye-like,,,Canada,Blend
+Forty Creek Evolution,0,8.62,0.73,9,$50-70 CAD,Rye-like,,,Canada,Blend
+Crown Royal Monarch 75th Anniversary,0,8.61,0.45,12,$50-70 CAD,Rye-like,,,Canada,Blend
+Gooderham & Worts Four Grain,0,8.61,0.27,13,$30-50 CAD,Rye-like,,,Canada,Blend
+Michter's Single Barrel Straight Rye,0,8.61,0.42,12,$50-70 CAD,Rye-like,,R4,USA,Rye
+Smooth Ambler Old Scout 7yo Rye,7,8.61,0.38,8,$50-70 CAD,Rye-like,,R4,USA,Rye
+Canadian Club 20yo,20,8.6,0.26,11,$50-70 CAD,Rye-like,,,Canada,Blend
+Masterson's Straight Wheat 12yo,12,8.6,0.26,9,$70-125 CAD,Rye-like,,,Canada,Wheat
+Crown Royal Blender's Select,0,8.59,0.12,4,$30-50 CAD,Rye-like,,,Canada,Blend
+Jefferson's Straight Rye 10yo,10,8.59,0.36,7,$50-70 CAD,Rye-like,,R4,USA,Rye
+Alberta Premium Dark Horse,0,8.58,0.35,17,<$30 CAD,Rye-like,,,Canada,Blend
+Rittenhouse Rye 100 Proof,0,8.58,0.22,18,$30-50 CAD,Rye-like,,R4,USA,Rye
+Sazerac Straight Rye,0,8.58,0.45,16,$30-50 CAD,Rye-like,,R4,USA,Rye
+Alberta Rye Dark Batch,0,8.57,0.22,9,$30-50 CAD,Rye-like,,,Canada,Blend
+High West Double Rye Campfire Barrel,0,8.56,0.31,5,$50-70 CAD,Rye-like,,R4,USA,Rye
+J.P. Wiser's Triple Barrel Rye,0,8.56,0.28,9,<$30 CAD,Rye-like,,,Canada,Blend
+Masterson's Straight Barley 10yo,10,8.56,0.6,7,$70-125 CAD,Rye-like,,,Canada,Barley
+Caribou Crossing Single Barrel,0,8.55,0.34,14,$70-125 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser‰Ûªs 18yo,18,8.55,0.41,18,$50-70 CAD,Rye-like,,,Canada,Blend
+Collingwood 21yo,21,8.54,0.41,13,$50-70 CAD,Rye-like,,,Canada,Blend
+Crown Royal Northern Harvest Rye,0,8.54,0.33,18,$30-50 CAD,Rye-like,,,Canada,Blend
+Crown Royal XO,0,8.53,0.53,8,$50-70 CAD,Rye-like,,,Canada,Blend
+Stalk & Barrel Rye,0,8.53,0.24,5,$50-70 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser‰Ûªs One Fifty,0,8.5,0.37,8,$30-50 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser's Small Batch,0,8.5,0.27,11,<$30 CAD,Rye-like,,,Canada,Blend
+Knob Creek Small Batch Straight Rye Whiskey,0,8.5,0.4,17,$50-70 CAD,Rye-like,,R4,USA,Rye
+"Forty Creek Confederation Oak (Batch E, F)",0,8.49,0.24,5,$50-70 CAD,Rye-like,,,Canada,Blend
+Forty Creek Heritage 2017,0,8.49,0.54,6,$50-70 CAD,Rye-like,,,Canada,Blend
+Pike Creek 21yo Double Barrel European Oak Cask (2018),21,8.49,0.34,8,$70-125 CAD,Rye-like,,,Canada,Blend
+Wild Turkey 101 Rye,0,8.49,0.31,15,$30-50 CAD,Rye-like,,R4,USA,Rye
+Danfield's 21yo,21,8.48,0.68,13,$30-50 CAD,Rye-like,,,Canada,Blend
+Willett Family Estate 2yo Rye,2,8.48,0.3,9,$50-70 CAD,Rye-like,,R4,USA,Rye
+High West Yippee Ki-Yay,0,8.47,0.64,9,$70-125 CAD,Rye-like,,R4,USA,Rye
+Jim Beam Pre-Prohibition Rye,0,8.45,0.38,6,<$30 CAD,Rye-like,,R4,USA,Rye
+Pike Creek 10yo Rum-finished,10,8.45,0.28,10,$30-50 CAD,Rye-like,,,Canada,Blend
+Forty Creek Founder's Reserve,0,8.44,0.34,6,$50-70 CAD,Rye-like,,,Canada,Blend
+Prichard‰Ûªs Rye,0,8.44,0.29,3,$70-125 CAD,Rye-like,,R4,USA,Rye
+George Dickel Rye,0,8.43,0.37,14,$30-50 CAD,Rye-like,,R4,USA,Rye
+High West Son of Bourye,0,8.43,0.4,12,$50-70 CAD,Rye-like,,R4,USA,Blend
+Forty Creek Barrel Select,0,8.42,0.44,17,<$30 CAD,Rye-like,,,Canada,Blend
+Crown Royal Reserve,0,8.41,0.63,15,$50-70 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser‰Ûªs 15yo,15,8.4,0.21,7,$50-70 CAD,Rye-like,,,Canada,Blend
+Stalk & Barrel Rye (Cask Strength),0,8.39,0.41,9,$50-70 CAD,Rye-like,,,Canada,Blend
+Potter's Special Old,0,8.37,0.47,4,<$30 CAD,Rye-like,,,Canada,Blend
+Canadian Club Reserve 10yo,10,8.34,0.6,9,$30-50 CAD,Rye-like,,,Canada,Blend
+Crown Royal Noble Collection Cornerstone Blend,0,8.34,0.66,5,$50-70 CAD,Rye-like,,,Canada,Blend
+Pike Creek 10yo Port-finished,10,8.34,0.36,13,$30-50 CAD,Rye-like,,,Canada,Blend
+Woodford Reserve Straight Rye,0,8.34,0.33,11,$30-50 CAD,Rye-like,,R4,USA,Rye
+Centennial 10yo,10,8.32,0.43,6,<$30 CAD,Rye-like,,,Canada,Blend
+Stalk & Barrel Red Blend,0,8.32,0.43,5,$30-50 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser's Double Still Rye,0,8.31,0.36,8,<$30 CAD,Rye-like,,,Canada,Blend
+Bulleit Rye,0,8.3,0.61,18,$30-50 CAD,Rye-like,,R4,USA,Rye
+Forty Creek Three Grain Harmony,0,8.3,0.5,8,$50-70 CAD,Rye-like,,,Canada,Blend
+Jack Daniel's Rested Tennessee Rye (Batch 1/2),0,8.3,0.49,4,$50-70 CAD,Rye-like,,R4,USA,Rye
+Yellow Rose Straight Rye,0,8.29,0.53,5,$50-70 CAD,Rye-like,,R4,USA,Rye
+Crown Royal Limited Edition,0,8.27,0.2,11,$30-50 CAD,Rye-like,,,Canada,Blend
+Willett Family Estate Rye XCF 1.0,0,8.27,0.48,4,$125-300 CAD,Rye-like,,R4,USA,Rye
+Canadian Club 100% Rye,0,8.26,0.39,16,<$30 CAD,Rye-like,,,Canada,Rye
+Alberta Springs 10yo,10,8.25,0.43,9,<$30 CAD,Rye-like,,,Canada,Blend
+66 Gilead Crimson Rye,0,8.23,0.44,7,$30-50 CAD,Rye-like,,,Canada,Blend
+Pendleton 1910,0,8.22,0.69,9,$30-50 CAD,Rye-like,,,Canada,Blend
+Crown Royal Black,0,8.19,0.5,16,$30-50 CAD,Rye-like,,,Canada,Blend
+Gibson's Bold 8yo,8,8.19,0.44,5,<$30 CAD,Rye-like,,,Canada,Blend
+Stalk & Barrel 11+1 Canadian whisky,0,8.18,0.4,17,$30-50 CAD,Rye-like,,,Canada,Blend
+Crown Royal Bourbon Mash (Blender's Mash),0,8.17,0.63,8,$30-50 CAD,Rye-like,,,Canada,Blend
+Canadian Club Sherry Cask,0,8.16,0.65,8,$30-50 CAD,Rye-like,,,Canada,Blend
+Alberta Premium,0,8.14,0.67,12,<$30 CAD,Rye-like,,,Canada,Blend
+Canadian Club Classic 12yo (Small Batch),12,8.14,0.42,13,<$30 CAD,Rye-like,,,Canada,Blend
+Hiram Walker Special Old Rye,0,8.12,0.36,9,<$30 CAD,Rye-like,,,Canada,Blend
+Koval Single Barrel Rye,0,8.09,0.21,5,$50-70 CAD,Rye-like,,R4,USA,Rye
+Century Reserve Lot 15/25,0,8.06,0.95,6,<$30 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser's Hopped,0,8.06,0.55,8,<$30 CAD,Rye-like,,,Canada,Blend
+Canada Gold,0,8.05,0.72,5,<$30 CAD,Rye-like,,,Canada,Blend
+Coyote Ugly,0,8.04,0.54,5,<$30 CAD,Rye-like,,,Canada,Blend
+Royal Canadian Small Batch,0,8.04,0.37,13,$30-50 CAD,Rye-like,,,Canada,Blend
+Canadian Mist Black Diamond,0,8.03,0.53,6,<$30 CAD,Rye-like,,,Canada,Blend
+Collingwood,0,8.03,0.29,10,$30-50 CAD,Rye-like,,,Canada,Blend
+Wild Turkey 81 Rye,0,8.03,0.21,7,$30-50 CAD,Rye-like,,R4,USA,Rye
+Ezra Brooks Rye,0,8.01,0.49,3,<$30 CAD,Rye-like,,R4,USA,Rye
+Gibson's Finest Sterling,0,8,0.36,9,<$30 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser's Deluxe,0,7.99,0.52,11,<$30 CAD,Rye-like,,,Canada,Blend
+Canadian Club Reserve 9yo,9,7.97,0.5,5,<$30 CAD,Rye-like,,,Canada,Blend
+Twelve Barrels,0,7.97,0.41,5,$30-50 CAD,Rye-like,,,Canada,Blend
+Jim Beam Rye,0,7.96,0.61,11,<$30 CAD,Rye-like,,R4,USA,Rye
+Templeton Rye,0,7.96,0.45,7,$50-70 CAD,Rye-like,,R4,USA,Rye
+Highwood Ninety 5yo,5,7.95,0.79,8,<$30 CAD,Rye-like,,,Canada,Blend
+Pendleton (Let'er Buck),0,7.95,0.52,14,$30-50 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser‰Ûªs Rye,0,7.94,0.42,9,<$30 CAD,Rye-like,,,Canada,Blend
+Wayne Gretzky No. 99 Red Cask,0,7.91,0.4,9,$30-50 CAD,Rye-like,,,Canada,Blend
+Stalk & Barrel Blue Blend,0,7.9,0.6,4,$30-50 CAD,Rye-like,,,Canada,Blend
+Gibson's Finest 12yo,12,7.84,0.75,12,<$30 CAD,Rye-like,,,Canada,Blend
+Schenley Golden Wedding,0,7.79,0.67,10,<$30 CAD,Rye-like,,,Canada,Blend
+Rich and Rare,0,7.75,0.62,6,<$30 CAD,Rye-like,,,Canada,Blend
+Rich and Rare Reserve,0,7.73,0.54,7,<$30 CAD,Rye-like,,,Canada,Blend
+Black Velvet 3yo,3,7.71,0.92,9,<$30 CAD,Rye-like,,,Canada,Blend
+Old Overholt,0,7.71,0.56,8,<$30 CAD,Rye-like,,R4,USA,Rye
+Seagram's VO,0,7.7,0.68,10,<$30 CAD,Rye-like,,,Canada,Blend
+Silk Tassel,0,7.67,0.76,4,<$30 CAD,Rye-like,,,Canada,Blend
+Canadian Mist,0,7.57,0.68,11,<$30 CAD,Rye-like,,,Canada,Blend
+Crown Royal,0,7.56,0.49,19,<$30 CAD,Rye-like,,,Canada,Blend
+8 Seconds,0,7.53,0.41,5,$30-50 CAD,Rye-like,,,Canada,Blend
+J.P. Wiser's Special Blend,0,7.37,0.81,6,<$30 CAD,Rye-like,,,Canada,Blend
+Seagram's Canadian 83,0,7.33,0.76,7,<$30 CAD,Rye-like,,,Canada,Blend
+Canadian Club (Premium),0,7.32,0.68,20,<$30 CAD,Rye-like,,,Canada,Blend
+Proof Whisky,0,7.19,0.79,9,$30-50 CAD,Rye-like,,,Canada,Blend
+Black Velvet Reserve 8yo,8,7.18,0.62,3,<$30 CAD,Rye-like,,,Canada,Blend
+Black Velvet Deluxe,0,7.1,0.75,8,<$30 CAD,Rye-like,,,Canada,Blend
+Ellington Reserve 8yo,8,6.88,1,4,<$30 CAD,Rye-like,,,Canada,Blend
+Parker‰Ûªs Heritage 2nd 27yo Kentucky Straight Boubon,27,9.28,0.35,3,>$300 CAD,Bourbon-like,,R1,USA,Bourbon
+Willett Family Estate 22yo Bourbon,22,9.28,0.09,4,>$300 CAD,Bourbon-like,,R2,USA,Bourbon
+Pappy Van Winkle Family Reserve Bourbon 15yo,15,9.23,0.24,11,>$300 CAD,Bourbon-like,,R0,USA,Bourbon
+Pappy Van Winkle Family Reserve Bourbon 20yo,20,9.22,0.32,15,>$300 CAD,Bourbon-like,,R0,USA,Bourbon
+William Larue Weller,0,9.22,0.24,16,>$300 CAD,Bourbon-like,,R0,USA,Bourbon
+Parker‰Ûªs Heritage 7th 10yo Promise of Hope,10,9.2,0.32,9,>$300 CAD,Bourbon-like,,R1,USA,Bourbon
+George T Stagg,0,9.17,0.25,23,>$300 CAD,Bourbon-like,,R1,USA,Bourbon
+Willett Family Estate 24yo Bourbon,24,9.17,0.27,3,>$300 CAD,Bourbon-like,,R2,USA,Bourbon
+Elijah Craig 21yo,21,9.16,0.35,6,>$300 CAD,Bourbon-like,,R1,USA,Bourbon
+Wild Turkey 15yo American Spirit,15,9.13,0.31,3,>$300 CAD,Bourbon-like,,R2,USA,Bourbon
+Stagg Jr batch 9 (131.9 proof),0,9.12,0.09,5,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Parker‰Ûªs Heritage 4th 10yo Wheated Mash Bill Bourbon,10,9.08,0.22,5,>$300 CAD,Bourbon-like,,R0,USA,Bourbon
+Parker‰Ûªs Heritage 5th 10yo Cognac Barrel Finished,10,9.07,0.38,9,>$300 CAD,Bourbon-like,,R1,USA,Bourbon
+"Buffalo Trace Experimental Collection 12yo floor #5 (rye, 2014)",12,9.05,0.24,5,$125-300 CAD,Bourbon-like,,R1,USA,Bourbon
+Four Roses Small Batch Limited Edition,0,9.05,0.2,17,>$300 CAD,Bourbon-like,,R3,USA,Bourbon
+Michter's 20yo Single Barrel Bourbon,20,9.05,0.42,5,>$300 CAD,Bourbon-like,,R1,USA,Bourbon
+Parker‰Ûªs Heritage 6th Blend of Mashbills,0,9.04,0.12,6,>$300 CAD,Bourbon-like,,R1,USA,Bourbon
+Wild Turkey Master's Keep Decades,0,9.03,0.17,8,$125-300 CAD,Bourbon-like,,R2,USA,Bourbon
+Willett Family Estate 8yo Bourbon,8,9.02,0.06,3,$70-125 CAD,Bourbon-like,,R2,USA,Bourbon
+William Heavenhill BiB,0,8.99,0.15,6,>$300 CAD,Bourbon-like,,R2,USA,Bourbon
+Willett Family Estate Bourbon (all ages),0,8.98,0.26,16,$70-125 CAD,Bourbon-like,,R2,USA,Bourbon
+Wild Turkey Master's Keep Revival,0,8.97,0.27,5,$125-300 CAD,Bourbon-like,,R2,USA,Bourbon
+Blanton's Straight from the Barrel Bourbon,0,8.93,0.23,11,$70-125 CAD,Bourbon-like,,R2,USA,Bourbon
+Colonel E.H. Taylor Four Grain,0,8.93,0.29,8,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Stagg Jr batch 4 (132.2 proof),0,8.93,0.27,5,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Willett Family Estate 7yo Bourbon,7,8.93,0.32,3,$70-125 CAD,Bourbon-like,,R2,USA,Bourbon
+Stagg Jr (batches 3+),0,8.92,0.16,11,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Willett Family Estate 17yo Bourbon,17,8.91,0.57,3,>$300 CAD,Bourbon-like,,R2,USA,Bourbon
+Heaven Hill Select Stock Barrel,0,8.9,0.13,3,$125-300 CAD,Bourbon-like,,R1,USA,Bourbon
+Elijah Craig Barrel Proof,0,8.89,0.2,13,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Jack Daniel's 150th Anniversary,0,8.89,0.32,3,$50-70 CAD,Bourbon-like,,R1,USA,Bourbon
+Old Rip Van Winkle 10yo,10,8.88,0.24,11,>$300 CAD,Bourbon-like,,R0,USA,Bourbon
+Stagg Jr batch 5 (129.7 proof),0,8.88,0.32,3,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Colonel EH. Taylor Barrel Proof,0,8.87,0.19,8,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Willett Family Estate 11yo Bourbon,11,8.87,0.29,6,>$300 CAD,Bourbon-like,,R2,USA,Bourbon
+Colonel E.H. Taylor Single Barrel,0,8.86,0.32,9,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Wild Turkey 17yo Master's Keep,17,8.86,0.3,10,$125-300 CAD,Bourbon-like,,R2,USA,Bourbon
+Angel's Envy Cask Strength,0,8.85,0.44,10,>$300 CAD,Bourbon-like,,R2,USA,Bourbon
+Eagle Rare 17yo,17,8.85,0.3,15,>$300 CAD,Bourbon-like,,R1,USA,Bourbon
+Parker‰Ûªs Heritage 11th 2017 11yo,11,8.85,0.44,5,$125-300 CAD,Bourbon-like,,R1,USA,Bourbon
+Wild Turkey Kentucky Spirit Single Barrel,0,8.85,0.28,14,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Michter's 10yo Single Barrel Bourbon,10,8.84,0.31,11,>$300 CAD,Bourbon-like,,R1,USA,Bourbon
+Pappy Van Winkle Family Reserve Bourbon 23yo,23,8.84,0.42,7,>$300 CAD,Bourbon-like,,R0,USA,Bourbon
+Willett Family Estate 14yo Bourbon,14,8.84,0.38,4,>$300 CAD,Bourbon-like,,R2,USA,Bourbon
+J.P. Wiser's Last Barrels,0,8.83,0.31,12,$50-70 CAD,Bourbon-like,,,Canada,Blend
+W.L. Weller 12yo,12,8.83,0.18,17,$125-300 CAD,Bourbon-like,,R0,USA,Bourbon
+Willett Family Estate 5yo Bourbon,5,8.83,0.14,3,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Booker's Small Batch Straight Bourbon,0,8.82,0.23,21,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Jefferson's 18yo Presidential Select,18,8.82,0.46,9,>$300 CAD,Bourbon-like,,R3,USA,Bourbon
+Old Forester 1920 Prohibition Style,0,8.82,0.29,6,$70-125 CAD,Bourbon-like,,R2,USA,Bourbon
+Yellowstone 2018 Limited Edition,0,8.82,0.2,3,$125-300 CAD,Bourbon-like,,R3,USA,Bourbon
+Smooth Ambler Old Scout Single Barrel Bourbon,0,8.81,0.21,8,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Willett Family Estate 13yo Bourbon,13,8.81,0.49,3,>$300 CAD,Bourbon-like,,R2,USA,Bourbon
+Russell's Reserve Single Barrel,0,8.8,0.22,11,$70-125 CAD,Bourbon-like,,R2,USA,Bourbon
+Stagg Jr batch 3 (132.1 proof),0,8.8,0.24,8,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Wild Turkey 14yo Tradition,14,8.79,0.27,5,$125-300 CAD,Bourbon-like,,R2,USA,Bourbon
+Parker‰Ûªs Heritage 8th 13yo Wheat Whiskey,13,8.78,0.55,11,>$300 CAD,Bourbon-like,,R0,USA,Bourbon
+Wild Turkey Diamond Anniversary,0,8.78,0.29,7,$125-300 CAD,Bourbon-like,,R2,USA,Bourbon
+Old Forester Birthday (2012-2016),0,8.77,0.13,12,$125-300 CAD,Bourbon-like,,R2,USA,Bourbon
+Baker‰Ûªs Kentucky Straight Bourbon 7yo,7,8.76,0.28,22,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Knob Creek Single Barrel Reserve Bourbon,0,8.75,0.29,15,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Jefferson's Ocean Aged at Sea,0,8.74,0.4,4,$70-125 CAD,Bourbon-like,,R3,USA,Bourbon
+Blanton's Gold Kentucky Straight Bourbon,0,8.73,0.4,17,$70-125 CAD,Bourbon-like,,R2,USA,Bourbon
+Elmer T. Lee Single Barrel Bourbon,0,8.73,0.37,16,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Henry McKenna 10yo Single Barrel BiB,10,8.73,0.26,12,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Orphan Barrel Barterhouse Bourbon 20yo,20,8.73,0.37,14,$125-300 CAD,Bourbon-like,,R1,USA,Bourbon
+Four Roses Single Barrel Bourbon,0,8.71,0.32,21,$50-70 CAD,Bourbon-like,,R3,USA,Bourbon
+Maker's Mark Cask Strength,0,8.71,0.41,15,$70-125 CAD,Bourbon-like,,R0,USA,Bourbon
+Old Grand-Dad Bourbon 114,0,8.71,0.32,14,$30-50 CAD,Bourbon-like,,R3,USA,Bourbon
+Wild Turkey Rare Breed,0,8.71,0.29,20,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Yellowstone 2016 Limited Edition,0,8.71,0.43,3,$125-300 CAD,Bourbon-like,,R3,USA,Bourbon
+Barton 1792 Full Proof Bourbon,0,8.7,0.46,7,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Elijah Craig 18yo,18,8.7,0.47,13,$125-300 CAD,Bourbon-like,,R1,USA,Bourbon
+Old Weller Antique 107,0,8.69,0.34,15,$30-50 CAD,Bourbon-like,,R0,USA,Bourbon
+Woodford Reserve Double Oaked,0,8.68,0.28,15,$70-125 CAD,Bourbon-like,,R2,USA,Bourbon
+Elijah Craig 12yo,12,8.67,0.27,24,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Stagg Jr batch 7 (129.5 proof),0,8.67,0.49,4,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Barton 1792 High Rye Bourbon,0,8.66,0.48,4,$50-70 CAD,Bourbon-like,,R3,USA,Bourbon
+Blanton's Original Bourbon Single Barrel,0,8.66,0.34,21,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Evan Williams Single Barrel,0,8.66,0.21,18,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Yellowstone Limited Edition (all vintages),0,8.66,0.37,3,$125-300 CAD,Bourbon-like,,R3,USA,Bourbon
+Barton 1792 Sweet Wheat Bourbon,0,8.65,0.19,8,$70-125 CAD,Bourbon-like,,R0,USA,Bourbon
+"Buffalo Trace Experimental Collection 12yo floor #1 (rye, 2014)",12,8.65,0.12,3,$125-300 CAD,Bourbon-like,,R1,USA,Bourbon
+Van Winkle Special Reserve 12yo Lot B,12,8.65,0.23,10,>$300 CAD,Bourbon-like,,R0,USA,Bourbon
+Maker's Mark 46,0,8.64,0.34,21,$50-70 CAD,Bourbon-like,,R0,USA,Bourbon
+"Buffalo Trace Experimental Collection 12yo floor #1 (wheat, 2015)",12,8.62,0.26,3,$125-300 CAD,Bourbon-like,,R0,USA,Bourbon
+Barton 1792 Single Barrel Bourbon,0,8.61,0.38,6,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Colonel E.H. Taylor Small Batch (BiB),0,8.61,0.27,14,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Eagle Rare 10yo,10,8.61,0.32,24,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Old Forester Statesman,0,8.61,0.49,4,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Willett Pot Still Reserve,0,8.61,0.52,9,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Jim Beam Single Barrel,0,8.59,0.16,4,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Knob Creek Small Batch 9yo Bourbon,9,8.59,0.39,23,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Stranahan's Colorado Whiskey,0,8.59,0.34,14,$70-125 CAD,Bourbon-like,,R0,USA,Bourbon
+Corner Creek Reserve Bourbon,0,8.58,0.35,8,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Jack Daniel's Master Distiller (all series),0,8.58,0.18,5,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Orphan Barrel Entrapment Canadian 25yo,25,8.58,0.46,7,$125-300 CAD,Bourbon-like,,R0,Canada,Blend
+Parker‰Ûªs Heritage 9th 8yo Malt Whiskey,8,8.58,0.51,8,$125-300 CAD,Bourbon-like,,R1,USA,Bourbon
+Stagg Jr (all batches),0,8.57,0.43,20,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Ezra Brooks 7yo Old Ezra 101,7,8.56,0.22,5,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Jefferson's Reserve Very Old Kentucky Straight Bourbon,0,8.56,0.37,8,$50-70 CAD,Bourbon-like,,R3,USA,Bourbon
+Buffalo Trace Bourbon,0,8.55,0.37,24,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Bulleit Bourbon Barrel Strength,0,8.55,0.26,9,$70-125 CAD,Bourbon-like,,R3,USA,Bourbon
+Russell's Reserve Small Batch 10yo Bourbon,10,8.55,0.34,16,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Koval Single Barrel Four Grain,0,8.54,0.23,5,$70-125 CAD,Bourbon-like,,R0,USA,Grain
+Barton 1792 Port Finished Bourbon,0,8.52,0.17,8,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Barton 1792 Small Batch Bourbon,0,8.52,0.41,19,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Ancient Age 10yo Kentucky Straight Bourbon,10,8.51,0.41,6,<$30 CAD,Bourbon-like,,R2,USA,Bourbon
+Four Roses Small Batch Bourbon,0,8.51,0.38,16,$30-50 CAD,Bourbon-like,,R3,USA,Bourbon
+Willett Family Estate 9yo Bourbon,9,8.51,0.36,4,$70-125 CAD,Bourbon-like,,R2,USA,Bourbon
+Bulleit 10yo,10,8.5,0.35,18,$50-70 CAD,Bourbon-like,,R3,USA,Bourbon
+Jim Beam 12yo Signature Craft,12,8.5,0.33,11,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Koval Single Barrel Bourbon,0,8.5,0.52,8,$50-70 CAD,Bourbon-like,,R0,USA,Bourbon
+Wild Turkey Longbranch,0,8.5,0.16,7,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Jack Daniel's Single Barrel,0,8.49,0.35,17,$50-70 CAD,Bourbon-like,,R1,USA,Bourbon
+Jim Beam Distillers Masterpiece PX Sherry Cask Finish,0,8.48,0.35,6,$125-300 CAD,Bourbon-like,,R2,USA,Bourbon
+Smooth Ambler Old Scout 7yo Bourbon,7,8.47,0.34,13,$50-70 CAD,Bourbon-like,,R3,USA,Bourbon
+Jim Beam Bonded,0,8.46,0.4,11,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Angel's Envy Bourbon (Port-finished),0,8.45,0.44,15,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Michter's Small Batch US*1 Bourbon,0,8.45,0.33,15,$50-70 CAD,Bourbon-like,,R1,USA,Bourbon
+Wild Turkey Forgiven,0,8.45,0.44,9,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Bernheim Original Straight Wheat 7yo Small Batch,7,8.44,0.52,19,$30-50 CAD,Bourbon-like,,R0,USA,Wheat
+Smooth Ambler Contradiction Bourbon,0,8.44,0.47,4,$70-125 CAD,Bourbon-like,,R2,USA,Bourbon
+Elijah Craig Small Batch (NAS),0,8.43,0.31,8,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Wild Turkey 101 Bourbon,0,8.43,0.35,22,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Stagg Jr batch 1 (134.4 proof),0,8.41,0.4,15,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+FEW Bourbon,0,8.4,0.57,12,$50-70 CAD,Bourbon-like,,R3,USA,Bourbon
+Michter's Toasted Barrel,0,8.4,0.14,6,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Heaven Hill 6yo BiB,6,8.39,0.24,8,<$30 CAD,Bourbon-like,,R1,USA,Bourbon
+Jefferson's Ocean,0,8.39,0.38,7,$30-50 CAD,Bourbon-like,,R3,USA,Bourbon
+Larceny Small Batch Bourbon,0,8.39,0.31,13,$30-50 CAD,Bourbon-like,,R0,USA,Bourbon
+Old Grand-Dad Bourbon 100 BiB,0,8.39,0.49,11,$30-50 CAD,Bourbon-like,,R3,USA,Bourbon
+Parker‰Ûªs Heritage 10th 24yo Kentucky Straight Bourbon,24,8.39,0.93,7,>$300 CAD,Bourbon-like,,R1,USA,Bourbon
+W.L. Weller Special Reserve,0,8.39,0.4,14,<$30 CAD,Bourbon-like,,R0,USA,Bourbon
+Old Forester Signature (100 Proof),0,8.38,0.39,10,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Smooth Ambler Old Scout 10yo Bourbon,10,8.38,0.56,4,$70-125 CAD,Bourbon-like,,R3,USA,Bourbon
+Very Old Barton 6yo BiB,6,8.38,0.36,5,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Bulleit Bourbon,0,8.37,0.34,24,$30-50 CAD,Bourbon-like,,R3,USA,Bourbon
+Old Fitzgerald Kentucky Straight Bourbon,0,8.37,0.5,6,$30-50 CAD,Bourbon-like,,R0,USA,Bourbon
+Stagg Jr (batches 1-2),0,8.37,0.38,15,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Woodford Reserve Distiller's Select,0,8.36,0.33,22,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Evan Williams Bottled in Bond (White label),0,8.34,0.47,13,<$30 CAD,Bourbon-like,,R1,USA,Bourbon
+Yellowstone 2015 Limited Edition,0,8.34,0.63,4,$125-300 CAD,Bourbon-like,,R3,USA,Bourbon
+Old Forester 1870 Original Batch,0,8.32,0.17,3,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Balcones Baby Blue,0,8.31,0.66,13,$70-125 CAD,Bourbon-like,,R0,USA,Whiskey
+High West American Prairie,0,8.3,0.65,8,$50-70 CAD,Bourbon-like,,R3,USA,Bourbon
+Jim Beam Double Oak,0,8.3,0.46,9,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Basil Hayden‰Ûªs Kentucky Bourbon,0,8.29,0.37,18,$50-70 CAD,Bourbon-like,,R3,USA,Bourbon
+Blanton's Special Reserve Single Barrel (Green label),0,8.28,0.38,8,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+Michter's Sour Mash,0,8.28,0.09,3,$50-70 CAD,Bourbon-like,,R1,USA,Bourbon
+Very Old Barton 6yo,6,8.28,0.46,9,<$30 CAD,Bourbon-like,,R2,USA,Bourbon
+Old Forester 1897 BiB,0,8.27,0.53,7,$50-70 CAD,Bourbon-like,,R2,USA,Bourbon
+George Dickel No.12,0,8.24,0.39,18,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Jim Beam Black Label,0,8.23,0.31,16,<$30 CAD,Bourbon-like,,R2,USA,Bourbon
+Four Roses (Yellow Label),0,8.22,0.32,13,<$30 CAD,Bourbon-like,,R3,USA,Bourbon
+Maker's Mark,0,8.21,0.39,26,$30-50 CAD,Bourbon-like,,R0,USA,Bourbon
+Evan Williams 1783 Small Batch,0,8.2,0.35,5,<$30 CAD,Bourbon-like,,R1,USA,Bourbon
+Evan Williams (Black Label),0,8.19,0.39,16,<$30 CAD,Bourbon-like,,R1,USA,Bourbon
+Koval Single Barrel Millet Whiskey,0,8.18,0.29,6,$50-70 CAD,Bourbon-like,,R0,USA,Grain
+Heaven Hill Trybox Series New Make,0,8.16,0.3,3,<$30 CAD,Bourbon-like,,R1,USA,Bourbon
+Old Forester,0,8.15,0.47,14,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Bib & Tucker 6yo Bourbon,6,8.13,0.18,5,$50-70 CAD,Bourbon-like,,R3,USA,Bourbon
+Yellowstone Select,0,8.13,0.33,7,$50-70 CAD,Bourbon-like,,R3,USA,Bourbon
+Old Fitzgerald BiB,0,8.12,0.53,9,$50-70 CAD,Bourbon-like,,R0,USA,Bourbon
+Tincup American Whiskey,0,8.12,0.29,8,$30-50 CAD,Bourbon-like,,R3,USA,Bourbon
+Wild Turkey 81 Bourbon,0,8.07,0.48,16,<$30 CAD,Bourbon-like,,R2,USA,Bourbon
+Jim Beam Devil's Cut,0,8.06,0.49,17,<$30 CAD,Bourbon-like,,R2,USA,Bourbon
+Henry McKenna Straight Bourbon,0,8.05,0.06,3,<$30 CAD,Bourbon-like,,R1,USA,Bourbon
+Jack Daniel's No. 27 Gold Double Barrelled,0,8.03,0.18,3,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+Mellow Corn BiB,0,8.02,0.41,16,<$30 CAD,Bourbon-like,,R1,USA,Bourbon
+Old Grand-Dad Bourbon (80/86 Proof),0,8.01,0.55,12,$30-50 CAD,Bourbon-like,,R3,USA,Bourbon
+Stagg Jr batch 2 (128.7 proof),0,7.97,0.86,3,$70-125 CAD,Bourbon-like,,R1,USA,Bourbon
+66 Gilead The Wild Oak,0,7.94,0.53,7,$30-50 CAD,Bourbon-like,,,Canada,Blend
+Jack Daniel's Old No. 7,0,7.94,0.38,16,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Smooth Ambler Old Scout Yearling Bourbon,0,7.92,1.03,4,$50-70 CAD,Bourbon-like,,R0,USA,Bourbon
+Ancient Age Kentucky Straight Bourbon,0,7.9,0.69,9,<$30 CAD,Bourbon-like,,R2,USA,Bourbon
+Jefferson's Very Small Batch Bourbon,0,7.9,0.71,8,$30-50 CAD,Bourbon-like,,R3,USA,Bourbon
+Jack Daniel's Gentleman Jack,0,7.85,0.37,14,$30-50 CAD,Bourbon-like,,R1,USA,Bourbon
+Heaven Hill Old Syle Bourbon (white label),0,7.83,0.47,5,<$30 CAD,Bourbon-like,,R1,USA,Bourbon
+Redemption High Rye Bourbon,0,7.81,0.73,7,$30-50 CAD,Bourbon-like,,R3,USA,Bourbon
+Ezra Brooks Black Label,0,7.78,0.82,7,<$30 CAD,Bourbon-like,,R1,USA,Bourbon
+Jim Beam Distillers Series,0,7.72,1.28,5,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon
+Ezra B 12yo Single Barrel,12,7.69,0.88,4,$50-70 CAD,Bourbon-like,,R1,USA,Bourbon
+Jim Beam White Label,0,7.67,0.5,19,<$30 CAD,Bourbon-like,,R2,USA,Bourbon
+Rebel Yell Kentucky Bourbon,0,7.45,0.55,12,<$30 CAD,Bourbon-like,,R0,USA,Bourbon
+Jim Beam Red Stag (Black Cherry),0,7.42,0.95,4,<$30 CAD,Bourbon-like,,,USA,Flavoured
+Virginia Black,0,7.29,1.11,6,$30-50 CAD,Bourbon-like,,R2,USA,Bourbon

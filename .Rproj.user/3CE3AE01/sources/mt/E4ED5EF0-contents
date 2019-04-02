@@ -1,5 +1,5 @@
 ---
-title: "Whisky Notes"
+title: "Whiskey Notes"
 output: html_notebook
 ---
 ```{r}
@@ -13,28 +13,51 @@ library(kernlab)
 library(rpart)
 library(rpart.plot)
 library(plyr)
+read.csv("Meta_Critic_Whisky_Data.csv")
 ```
-# Column meanings
-https://whiskyanalysis.com/index.php/interesting-correlations/how-to-read-the-database/
-
-*Want to change $$$ to the price ranges listed*
-
-
-528 - Teaninich 10yo (F&F) - Cost Missing
-
-1036-1517 - Missing Super Cluster, most missing Cluster until you get into Ryes
+```{r}
+ggplot(data=Meta_Critic_Whisky_Data, aes(x=Age)) + geom_histogram(binwidth = 5)
+```
+```{r}
+ggplot(data=Meta_Critic_Whisky_Data, aes(x=Cost, y=Age))+ geom_boxplot()
+```
 
 ```{r}
-Whiskey_Data <- Meta_Critic_Whisky_Database_Selfbuilts_Whisky_Analysis[-c(528),]
+Whisky_Data <- subset(Meta_Critic_Whisky_Data, select = -c(Cluster, SuperCluster))
+na.omit(Whisky_Data)
+Whisky_Data
 ```
-
-
 
 ```{r}
-Cost_CAD <- factor(Whiskey_Data$Cost, labels=c("<$30 CAD","$30-$50 CAD","$50-$70 CAD", "$70-$125 CAD","$125-$300 CAD",">$300 CAD"))
-Whiskey_Data <- data.frame(Whisky, MetaCritic, STDEV, #, Cost_CAD, Class, SuperCluser, Cluster, Country, Type)
-#mtcars2 <- data.frame(am, mpg = mtcars$mpg)
+### Linear model for MetaCritic predictions
+meta_critic_linear_model <- lm(MetaCritic ~ ., df=Whisky_Data)
 ```
 
+
+```{r} 
+set.seed(3)  ### Lasso to get best values for MetaCritic predictions
+train_control_cv <- trainControl(method="CV")
+grid1 <- 10^seq(2,-2, length=100)
+train_rows <- createDataPartition(Whisky_Data$MetaCritic, p=0.7, list=FALSE)
+Whisky_train <-Whisky_Data[train_rows, ]
+Whisky_test <- Whisky_Data[-train_rows, ]
+  
+  
+lasso_model <- train(MetaCritic ~., 
+                     data=Whisky_train,
+                     trControl=train_control_cv,
+                     preProcess = c("center","scale"),
+                     method="glmnet",
+                     tuneGrid = data.frame(alpha = 1, grid = grid1))
+
+best_lambda <- lasso_model$bestTune$lambda
+coef(lasso_model$finalModel, s=best_lambda)
+```
+
+```{r}
+set.seed(3)
+cost_tree <- train(Cost ~., data=Whisky_Data, method="rpart")
+cost_tree
+```
 
 

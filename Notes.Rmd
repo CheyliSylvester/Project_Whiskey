@@ -1,8 +1,8 @@
 ---
-title: "Whisky Notes"
+title: "Whiskey Notes"
 output: html_notebook
 ---
-```{r}
+```{r, results = "hide"}
 library(MASS)
 library(tidyverse)
 library(car)
@@ -13,28 +13,224 @@ library(kernlab)
 library(rpart)
 library(rpart.plot)
 library(plyr)
+library(boot)
+library(ISLR)
+library(dplyr)
+Meta_Critic_Whisky_Data <- read.csv("Meta_Critic_Whisky_Data.csv")
+Meta_Critic_Whisky_Data
 ```
-# Column meanings
-https://whiskyanalysis.com/index.php/interesting-correlations/how-to-read-the-database/
+#Data cleaning Exlplanations
+Data used was accessed on March 17th. Data set is live
+Removed "Teaninich 10yo (F&F)" before importing because it was missing the Cost variable.
+Changed "Meta Critic" to "MetaCritic", "#" to "Num_of_Critics", "Super Cluster" to "SuperCluster", "STDEV" to "StDev" to fix coding errors.
+Added age variable by taking the number of years aged from the Whisky category, signified by #yo in the title of the whisky. In the case of any whiskies with more than one year given, the minimum was taken. (Only example in my dataset "Amrut Greedy Angels (8yo and 10yo)" Other new entries with the same syntax should be treated the same).
 
-*Want to change $$$ to the price ranges listed*
 
-
-528 - Teaninich 10yo (F&F) - Cost Missing
-
-1036-1517 - Missing Super Cluster, most missing Cluster until you get into Ryes
+#Exploritiory Graphs
+```{r}
+ggplot(data=Meta_Critic_Whisky_Data, aes(x=Age)) + geom_histogram(binwidth = 5)
+```
+```{r}
+ggplot(data=Meta_Critic_Whisky_Data, aes(x=Cost, y=Age))+ geom_boxplot()
+```
 
 ```{r}
-Whiskey_Data <- Meta_Critic_Whisky_Database_Selfbuilts_Whisky_Analysis[-c(528),]
+ggplot(data=Meta_Critic_Whisky_Data, aes(x=Cost, y=MetaCritic))+ geom_boxplot()
+```
+
+#Cleaning Some Data
+```{r}
+Whisky_Data <- subset(Meta_Critic_Whisky_Data, select = -c(Cluster, SuperCluster))
+#Since there is a large portion of data that does not list Cluster or SuperCluster, I have excluded it from my considerations. I chose not to put in a dummy variable as the clusters rely on taste and I cannot assume flavor profiles.
+Whisky_Data<- na.omit(Whisky_Data) 
+Whisky_Data <- Whisky_Data[-c(1138),]
+#No NAs, however, "Highland Queen" is missing both Country and Type, so I manually removed it
+#Single instance of Irish instead of Ireland in Country variable
+Whisky_Data
+Whisky_Data[292, "Country"] <- "Ireland"
 ```
 
 
 
 ```{r}
-Cost_CAD <- factor(Whiskey_Data$Cost, labels=c("<$30 CAD","$30-$50 CAD","$50-$70 CAD", "$70-$125 CAD","$125-$300 CAD",">$300 CAD"))
-Whiskey_Data <- data.frame(Whisky, MetaCritic, STDEV, #, Cost_CAD, Class, SuperCluser, Cluster, Country, Type)
-#mtcars2 <- data.frame(am, mpg = mtcars$mpg)
+str(Whisky_Data)
+```
+
+#Preliminary data splitting for test/train and stuff
+```{r} 
+set.seed(3) 
+train_control_none <- trainControl(method="none")
+train_control_cv <- trainControl(method="CV")
+grid <- data.frame(cp = seq(from = 0, to = 0.25, by = 0.01))
+train_rows <- createDataPartition(Whisky_Data$MetaCritic, p=0.7, list=FALSE)
+Whisky_train <-Whisky_Data[train_rows, ]
+Whisky_test <- Whisky_Data[-train_rows, ]
+```
+
+
+#Tree for predicting MetaCritic
+```{r}
+set.seed(3)
+metaCritic_tree <- train(MetaCritic ~ . -Whisky, data=Whisky_Data,
+                         tuneGrid = grid,
+                         method="rpart")
+metaCritic_tree
+```
+
+```{r}
+meta_tree_model <- metaCritic_tree$finalModel
+meta_tree_model
+```
+
+```{r}
+prp(meta_tree_model)
+```
+```{r}
+rpart.plot(meta_tree_model)
+```
+
+
+#Tree to predict Cost
+```{r}
+set.seed(3)
+cost_tree <- train(Cost ~ . -Whisky, data=Whisky_Data, tuneGrid = grid, method="rpart")
+cost_tree
+```
+
+```{r}
+cost_tree_model <- cost_tree$finalModel
+cost_tree_model
+```
+```{r}
+prp(cost_tree_model)
+```
+
+```{r}
+rpart.plot(cost_tree_model)
+```
+
+#MTRY ??
+```{r}
+set.seed(3)
+meta_forest <- train(MetaCritic ~ . -Whisky, data=Whisky_train, method = "rf", trControl= train_control_cv, tuneGrid = data.frame(mtry = 6), importance = TRUE)
+pred_meta_forest <- predict(meta_forest, newdata= Whisky_test)
+postResample(pred_meta_forest, Whisky_test$MetaCritic)
+```
+
+#??? I know we can sort into categories, it's a tree. What should I do instead to analize this?
+```{r}
+set.seed(3)
+cost_forest <- train(Cost ~ . -Whisky, data=Whisky_train,
+                     method = "rf",
+                     trControl= train_control_cv,
+                     tuneGrid = data.frame(mtry = 6),
+                     importance = TRUE)
+pred_cost_forest <- predict(cost_forest, newdata= Whisky_test)
+postResample(pred_cost_forest, Whisky_test$MetaCritic)
+```
+
+
+#Tree to predict MetaCritic only Categorical <- Do I give a shit about this? Did it for funsies, but what does it actually tell me, if anything?
+```{r}
+set.seed(3)
+meta_cat_tree <- train(MetaCritic ~ . -Whisky -StDev -Num_of_Critics, data=Whisky_train, tuneGrid = grid, method="rpart")
+meta_cat_tree
+```
+```{r}
+meta_cat_model <- meta_cat_tree$finalModel
+meta_cat_model
+```
+```{r}
+prp(meta_cat_model)
+```
+```{r}
+rpart.plot(meta_cat_model)
+```
+
+#Lasso
+```{r}
+set.seed(3)
+grid1 <- 10^seq(2, -2, length = 100)
+lasso_model_meta <- train(MetaCritic ~ . -Whisky, 
+                     data = Whisky_train,
+                     trControl = train_control_cv,
+                     preProcess = c("center", "scale"),
+                     method = "glmnet",
+                     tuneGrid = data.frame(alpha = 1, lambda = grid1))
+best_lambda_meta <- lasso_model_meta$bestTune$lambda
+coef(lasso_model_meta$finalModel, s=best_lambda_meta)
+```
+#Fucking finally. Probs use this model for comparison to my forest. Fairly high rmse
+```{r}
+lasso_model_pred_meta <- predict(lasso_model_meta, newdata = Whisky_test)
+postResample(lasso_model_pred_meta, Whisky_test$MetaCritic)
 ```
 
 
 
+
+#Coding for prefrences for best MetaCritic
+
+```{r}
+cost_1_barley <- subset(Whisky_Data, Cost == '<$30 CAD' & Type == 'Barley', select = c("Whisky", "MetaCritic"))
+cost_1_blend <- subset(Whisky_Data, Cost == '<$30 CAD' & Type == 'Blend', select = c("Whisky", "MetaCritic"))
+cost_1_bourbon <- subset(Whisky_Data, Cost == '<$30 CAD' & Type == 'Bourbon', select = c("Whisky", "MetaCritic"))
+cost_1_flavoured <- subset(Whisky_Data, Cost == '<$30 CAD' & Type == 'Flavoured', select = c("Whisky", "MetaCritic"))
+cost_1_grain <- subset(Whisky_Data, Cost == '<$30 CAD' & Type == 'Grain', select = c("Whisky", "MetaCritic"))
+cost_1_malt <- subset(Whisky_Data, Cost == '<$30 CAD' & Type == 'Malt', select = c("Whisky", "MetaCritic"))
+cost_1_rye <- subset(Whisky_Data, Cost == '<$30 CAD' & Type == 'Rye', select = c("Whisky", "MetaCritic"))
+cost_1_wheat <- subset(Whisky_Data, Cost == '<$30 CAD' & Type == 'Wheat', select = c("Whisky", "MetaCritic"))
+
+cost_2_barley <- subset(Whisky_Data, Cost == '$30-50 CAD' & Type == 'Barley', select = c("Whisky", "MetaCritic"))
+cost_2_blend <- subset(Whisky_Data, Cost == '$30-50 CAD' & Type == 'Blend', select = c("Whisky", "MetaCritic"))
+cost_2_bourbon <- subset(Whisky_Data, Cost == '$30-50 CAD' & Type == 'Bourbon', select = c("Whisky", "MetaCritic"))
+cost_2_flavoured <- subset(Whisky_Data, Cost == '$30-50 CAD' & Type == 'Flavoured', select = c("Whisky", "MetaCritic"))
+cost_2_grain <- subset(Whisky_Data, Cost == '$30-50 CAD' & Type == 'Grain', select = c("Whisky", "MetaCritic"))
+cost_2_malt <- subset(Whisky_Data, Cost == '$30-50 CAD' & Type == 'Malt', select = c("Whisky", "MetaCritic"))
+cost_2_rye <- subset(Whisky_Data, Cost == '$30-50 CAD' & Type == 'Rye', select = c("Whisky", "MetaCritic"))
+cost_2_wheat <- subset(Whisky_Data, Cost == '$30-50 CAD' & Type == 'Wheat', select = c("Whisky", "MetaCritic"))
+
+cost_3_barley <- subset(Whisky_Data, Cost == '$50-70 CAD' & Type == 'Barley', select = c("Whisky", "MetaCritic"))
+cost_3_blend <- subset(Whisky_Data, Cost == '$50-70 CAD' & Type == 'Blend', select = c("Whisky", "MetaCritic"))
+cost_3_bourbon <- subset(Whisky_Data, Cost == '$50-70 CAD' & Type == 'Bourbon', select = c("Whisky", "MetaCritic"))
+cost_3_flavoured <- subset(Whisky_Data, Cost == '$50-70 CAD' & Type == 'Flavoured', select = c("Whisky", "MetaCritic"))
+cost_3_grain <- subset(Whisky_Data, Cost == '$50-70 CAD' & Type == 'Grain', select = c("Whisky", "MetaCritic"))
+cost_3_malt <- subset(Whisky_Data, Cost == '$50-70 CAD' & Type == 'Malt', select = c("Whisky", "MetaCritic"))
+cost_3_rye <- subset(Whisky_Data, Cost == '$50-70 CAD' & Type == 'Rye', select = c("Whisky", "MetaCritic"))
+cost_3_wheat <- subset(Whisky_Data, Cost == '$50-70 CAD' & Type == 'Wheat', select = c("Whisky", "MetaCritic"))
+
+cost_4_barley <- subset(Whisky_Data, Cost == '$70-125 CAD' & Type == 'Barley', select = c("Whisky", "MetaCritic"))
+cost_4_blend <- subset(Whisky_Data, Cost == '$70-125 CAD' & Type == 'Blend', select = c("Whisky", "MetaCritic"))
+cost_4_bourbon <- subset(Whisky_Data, Cost == '$70-125 CAD' & Type == 'Bourbon', select = c("Whisky", "MetaCritic"))
+cost_4_flavoured <- subset(Whisky_Data, Cost == '$70-125 CAD' & Type == 'Flavoured', select = c("Whisky", "MetaCritic"))
+cost_4_grain <- subset(Whisky_Data, Cost == '$70-125 CAD' & Type == 'Grain', select = c("Whisky", "MetaCritic"))
+cost_4_malt <- subset(Whisky_Data, Cost == '$70-125 CAD' & Type == 'Malt', select = c("Whisky", "MetaCritic"))
+cost_4_rye <- subset(Whisky_Data, Cost == '$70-125 CAD' & Type == 'Rye', select = c("Whisky", "MetaCritic"))
+cost_4_wheat <- subset(Whisky_Data, Cost == '$70-125 CAD' & Type == 'Wheat', select = c("Whisky", "MetaCritic"))
+
+cost_5_barley <- subset(Whisky_Data, Cost == '$125-300 CAD' & Type == 'Barley', select = c("Whisky", "MetaCritic"))
+cost_5_blend <- subset(Whisky_Data, Cost == '$125-300 CAD' & Type == 'Blend', select = c("Whisky", "MetaCritic"))
+cost_5_bourbon <- subset(Whisky_Data, Cost == '$125-300 CAD' & Type == 'Bourbon', select = c("Whisky", "MetaCritic"))
+cost_5_flavoured <- subset(Whisky_Data, Cost == '$125-300 CAD' & Type == 'Flavoured', select = c("Whisky", "MetaCritic"))
+cost_5_grain <- subset(Whisky_Data, Cost == '$125-300 CAD' & Type == 'Grain', select = c("Whisky", "MetaCritic"))
+cost_5_malt <- subset(Whisky_Data, Cost == '$125-300 CAD' & Type == 'Malt', select = c("Whisky", "MetaCritic"))
+cost_5_rye <- subset(Whisky_Data, Cost == '$125-300 CAD' & Type == 'Rye', select = c("Whisky", "MetaCritic"))
+cost_5_wheat <- subset(Whisky_Data, Cost == '$125-300 CAD' & Type == 'Wheat', select = c("Whisky", "MetaCritic"))
+
+cost_6_barley <- subset(Whisky_Data, Cost == '>$300 CAD' & Type == 'Barley', select = c("Whisky", "MetaCritic"))
+cost_6_blend <- subset(Whisky_Data, Cost == '>$300 CAD' & Type == 'Blend', select = c("Whisky", "MetaCritic"))
+cost_6_bourbon <- subset(Whisky_Data, Cost == '>$300 CAD' & Type == 'Bourbon', select = c("Whisky", "MetaCritic"))
+cost_6_flavoured <- subset(Whisky_Data, Cost == '>$300 CAD' & Type == 'Flavoured', select = c("Whisky", "MetaCritic"))
+cost_6_grain <- subset(Whisky_Data, Cost == '>$300 CAD' & Type == 'Grain', select = c("Whisky", "MetaCritic"))
+cost_6_malt <- subset(Whisky_Data, Cost == '>$300 CAD' & Type == 'Malt', select = c("Whisky", "MetaCritic"))
+cost_6_rye <- subset(Whisky_Data, Cost == '>$300 CAD' & Type == 'Rye', select = c("Whisky", "MetaCritic"))
+cost_6_wheat <- subset(Whisky_Data, Cost == '>$300 CAD' & Type == 'Wheat', select = c("Whisky", "MetaCritic"))
+```
+
+#Sean Questions:
+
+- Add to GitHub. Totally put that on the back burner and forgot all about it
+
+- Why aren't my predict and confusion matricies work? I've always had trouble with these but I'm getting errors about my data that I can't parse
+
+- I don't know how to code. I can get a list of true values, so I feel like I can strong arm it by getting the max value, finding which ones have that max value, but I don't know how to 'get' a list of the corresponding entries that match the TRUE results.
